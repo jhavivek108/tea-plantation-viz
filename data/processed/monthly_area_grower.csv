@@ -1,0 +1,1567 @@
+date,year,month_num,fiscal_year,zone,state,area,grower,production_mkg,status
+2019-01-01,2019,1,2018-19,North India,Assam,Assam Valley,BG,0.0,Final
+2019-01-01,2019,1,2018-19,North India,Assam,Assam Valley,SG,0.0,Final
+2019-01-01,2019,1,2018-19,North India,Assam,Cachar,BG,0.0,Final
+2019-01-01,2019,1,2018-19,North India,Assam,Cachar,SG,0.0,Final
+2019-01-01,2019,1,2018-19,North India,West Bengal,Darjeeling,BG,0.0,Final
+2019-01-01,2019,1,2018-19,North India,West Bengal,Darjeeling,SG,0.0,Final
+2019-01-01,2019,1,2018-19,North India,West Bengal,Dooars,BG,0.0,Final
+2019-01-01,2019,1,2018-19,North India,West Bengal,Dooars,SG,0.0,Final
+2019-01-01,2019,1,2018-19,South India,Karnataka,Karnataka,BG,0.25,Final
+2019-01-01,2019,1,2018-19,South India,Karnataka,Karnataka,SG,0.01,Final
+2019-01-01,2019,1,2018-19,South India,Kerala,Kerala,BG,3.63,Final
+2019-01-01,2019,1,2018-19,South India,Kerala,Kerala,SG,0.82,Final
+2019-01-01,2019,1,2018-19,North India,Others (North),Others (NE & HP etc.),BG,0.0,Final
+2019-01-01,2019,1,2018-19,North India,Others (North),Others (NE & HP etc.),SG,0.0,Final
+2019-01-01,2019,1,2018-19,South India,Tamil Nadu,Tamil Nadu,BG,4.07,Final
+2019-01-01,2019,1,2018-19,South India,Tamil Nadu,Tamil Nadu,SG,5.44,Final
+2019-01-01,2019,1,2018-19,North India,West Bengal,Terai,BG,0.0,Final
+2019-01-01,2019,1,2018-19,North India,West Bengal,Terai,SG,0.0,Final
+2019-02-01,2019,2,2018-19,North India,Assam,Assam Valley,BG,0.3,Final
+2019-02-01,2019,2,2018-19,North India,Assam,Assam Valley,SG,0.05,Final
+2019-02-01,2019,2,2018-19,North India,Assam,Cachar,BG,0.09,Final
+2019-02-01,2019,2,2018-19,North India,Assam,Cachar,SG,0.0,Final
+2019-02-01,2019,2,2018-19,North India,West Bengal,Darjeeling,BG,0.01,Final
+2019-02-01,2019,2,2018-19,North India,West Bengal,Darjeeling,SG,0.0,Final
+2019-02-01,2019,2,2018-19,North India,West Bengal,Dooars,BG,0.83,Final
+2019-02-01,2019,2,2018-19,North India,West Bengal,Dooars,SG,1.28,Final
+2019-02-01,2019,2,2018-19,South India,Karnataka,Karnataka,BG,0.23,Final
+2019-02-01,2019,2,2018-19,South India,Karnataka,Karnataka,SG,0.01,Final
+2019-02-01,2019,2,2018-19,South India,Kerala,Kerala,BG,2.2,Final
+2019-02-01,2019,2,2018-19,South India,Kerala,Kerala,SG,0.55,Final
+2019-02-01,2019,2,2018-19,North India,Others (North),Others (NE & HP etc.),BG,0.07,Final
+2019-02-01,2019,2,2018-19,North India,Others (North),Others (NE & HP etc.),SG,0.09,Final
+2019-02-01,2019,2,2018-19,South India,Tamil Nadu,Tamil Nadu,BG,3.08,Final
+2019-02-01,2019,2,2018-19,South India,Tamil Nadu,Tamil Nadu,SG,4.09,Final
+2019-02-01,2019,2,2018-19,North India,West Bengal,Terai,BG,0.48,Final
+2019-02-01,2019,2,2018-19,North India,West Bengal,Terai,SG,1.44,Final
+2019-03-01,2019,3,2018-19,North India,Assam,Assam Valley,BG,13.19,Final
+2019-03-01,2019,3,2018-19,North India,Assam,Assam Valley,SG,18.24,Final
+2019-03-01,2019,3,2018-19,North India,Assam,Cachar,BG,1.47,Final
+2019-03-01,2019,3,2018-19,North India,Assam,Cachar,SG,0.01,Final
+2019-03-01,2019,3,2018-19,North India,West Bengal,Darjeeling,BG,0.22,Final
+2019-03-01,2019,3,2018-19,North India,West Bengal,Darjeeling,SG,0.0,Final
+2019-03-01,2019,3,2018-19,North India,West Bengal,Dooars,BG,8.12,Final
+2019-03-01,2019,3,2018-19,North India,West Bengal,Dooars,SG,6.08,Final
+2019-03-01,2019,3,2018-19,South India,Karnataka,Karnataka,BG,0.34,Final
+2019-03-01,2019,3,2018-19,South India,Karnataka,Karnataka,SG,0.01,Final
+2019-03-01,2019,3,2018-19,South India,Kerala,Kerala,BG,3.44,Final
+2019-03-01,2019,3,2018-19,South India,Kerala,Kerala,SG,0.91,Final
+2019-03-01,2019,3,2018-19,North India,Others (North),Others (NE & HP etc.),BG,0.44,Final
+2019-03-01,2019,3,2018-19,North India,Others (North),Others (NE & HP etc.),SG,1.04,Final
+2019-03-01,2019,3,2018-19,South India,Tamil Nadu,Tamil Nadu,BG,4.44,Final
+2019-03-01,2019,3,2018-19,South India,Tamil Nadu,Tamil Nadu,SG,5.96,Final
+2019-03-01,2019,3,2018-19,North India,West Bengal,Terai,BG,3.62,Final
+2019-03-01,2019,3,2018-19,North India,West Bengal,Terai,SG,7.06,Final
+2019-04-01,2019,4,2019-20,North India,Assam,Assam Valley,BG,21.75,Final
+2019-04-01,2019,4,2019-20,North India,Assam,Assam Valley,SG,20.23,Final
+2019-04-01,2019,4,2019-20,North India,Assam,Cachar,BG,2.99,Final
+2019-04-01,2019,4,2019-20,North India,Assam,Cachar,SG,0.01,Final
+2019-04-01,2019,4,2019-20,North India,West Bengal,Darjeeling,BG,1.26,Final
+2019-04-01,2019,4,2019-20,North India,West Bengal,Darjeeling,SG,0.02,Final
+2019-04-01,2019,4,2019-20,North India,West Bengal,Dooars,BG,8.27,Final
+2019-04-01,2019,4,2019-20,North India,West Bengal,Dooars,SG,5.37,Final
+2019-04-01,2019,4,2019-20,South India,Karnataka,Karnataka,BG,0.3,Final
+2019-04-01,2019,4,2019-20,South India,Karnataka,Karnataka,SG,0.02,Final
+2019-04-01,2019,4,2019-20,South India,Kerala,Kerala,BG,2.53,Final
+2019-04-01,2019,4,2019-20,South India,Kerala,Kerala,SG,0.75,Final
+2019-04-01,2019,4,2019-20,North India,Others (North),Others (NE & HP etc.),BG,0.77,Final
+2019-04-01,2019,4,2019-20,North India,Others (North),Others (NE & HP etc.),SG,1.38,Final
+2019-04-01,2019,4,2019-20,South India,Tamil Nadu,Tamil Nadu,BG,3.82,Final
+2019-04-01,2019,4,2019-20,South India,Tamil Nadu,Tamil Nadu,SG,6.6,Final
+2019-04-01,2019,4,2019-20,North India,West Bengal,Terai,BG,2.86,Final
+2019-04-01,2019,4,2019-20,North India,West Bengal,Terai,SG,5.56,Final
+2019-05-01,2019,5,2019-20,North India,Assam,Assam Valley,BG,29.89,Final
+2019-05-01,2019,5,2019-20,North India,Assam,Assam Valley,SG,32.02,Final
+2019-05-01,2019,5,2019-20,North India,Assam,Cachar,BG,4.64,Final
+2019-05-01,2019,5,2019-20,North India,Assam,Cachar,SG,0.03,Final
+2019-05-01,2019,5,2019-20,North India,West Bengal,Darjeeling,BG,0.77,Final
+2019-05-01,2019,5,2019-20,North India,West Bengal,Darjeeling,SG,0.01,Final
+2019-05-01,2019,5,2019-20,North India,West Bengal,Dooars,BG,12.81,Final
+2019-05-01,2019,5,2019-20,North India,West Bengal,Dooars,SG,11.34,Final
+2019-05-01,2019,5,2019-20,South India,Karnataka,Karnataka,BG,0.39,Final
+2019-05-01,2019,5,2019-20,South India,Karnataka,Karnataka,SG,0.02,Final
+2019-05-01,2019,5,2019-20,South India,Kerala,Kerala,BG,4.94,Final
+2019-05-01,2019,5,2019-20,South India,Kerala,Kerala,SG,1.53,Final
+2019-05-01,2019,5,2019-20,North India,Others (North),Others (NE & HP etc.),BG,1.01,Final
+2019-05-01,2019,5,2019-20,North India,Others (North),Others (NE & HP etc.),SG,1.92,Final
+2019-05-01,2019,5,2019-20,South India,Tamil Nadu,Tamil Nadu,BG,6.98,Final
+2019-05-01,2019,5,2019-20,South India,Tamil Nadu,Tamil Nadu,SG,8.13,Final
+2019-05-01,2019,5,2019-20,North India,West Bengal,Terai,BG,4.23,Final
+2019-05-01,2019,5,2019-20,North India,West Bengal,Terai,SG,13.66,Final
+2019-06-01,2019,6,2019-20,North India,Assam,Assam Valley,BG,37.85,Final
+2019-06-01,2019,6,2019-20,North India,Assam,Assam Valley,SG,32.43,Final
+2019-06-01,2019,6,2019-20,North India,Assam,Cachar,BG,4.87,Final
+2019-06-01,2019,6,2019-20,North India,Assam,Cachar,SG,0.05,Final
+2019-06-01,2019,6,2019-20,North India,West Bengal,Darjeeling,BG,0.93,Final
+2019-06-01,2019,6,2019-20,North India,West Bengal,Darjeeling,SG,0.02,Final
+2019-06-01,2019,6,2019-20,North India,West Bengal,Dooars,BG,13.1,Final
+2019-06-01,2019,6,2019-20,North India,West Bengal,Dooars,SG,12.55,Final
+2019-06-01,2019,6,2019-20,South India,Karnataka,Karnataka,BG,0.45,Final
+2019-06-01,2019,6,2019-20,South India,Karnataka,Karnataka,SG,0.03,Final
+2019-06-01,2019,6,2019-20,South India,Kerala,Kerala,BG,5.43,Final
+2019-06-01,2019,6,2019-20,South India,Kerala,Kerala,SG,1.1,Final
+2019-06-01,2019,6,2019-20,North India,Others (North),Others (NE & HP etc.),BG,1.2,Final
+2019-06-01,2019,6,2019-20,North India,Others (North),Others (NE & HP etc.),SG,2.26,Final
+2019-06-01,2019,6,2019-20,South India,Tamil Nadu,Tamil Nadu,BG,6.56,Final
+2019-06-01,2019,6,2019-20,South India,Tamil Nadu,Tamil Nadu,SG,11.42,Final
+2019-06-01,2019,6,2019-20,North India,West Bengal,Terai,BG,4.38,Final
+2019-06-01,2019,6,2019-20,North India,West Bengal,Terai,SG,15.91,Final
+2019-07-01,2019,7,2019-20,North India,Assam,Assam Valley,BG,48.64,Final
+2019-07-01,2019,7,2019-20,North India,Assam,Assam Valley,SG,42.76,Final
+2019-07-01,2019,7,2019-20,North India,Assam,Cachar,BG,5.58,Final
+2019-07-01,2019,7,2019-20,North India,Assam,Cachar,SG,0.21,Final
+2019-07-01,2019,7,2019-20,North India,West Bengal,Darjeeling,BG,1.05,Final
+2019-07-01,2019,7,2019-20,North India,West Bengal,Darjeeling,SG,0.01,Final
+2019-07-01,2019,7,2019-20,North India,West Bengal,Dooars,BG,17.84,Final
+2019-07-01,2019,7,2019-20,North India,West Bengal,Dooars,SG,13.34,Final
+2019-07-01,2019,7,2019-20,South India,Karnataka,Karnataka,BG,0.48,Final
+2019-07-01,2019,7,2019-20,South India,Karnataka,Karnataka,SG,0.02,Final
+2019-07-01,2019,7,2019-20,South India,Kerala,Kerala,BG,4.54,Final
+2019-07-01,2019,7,2019-20,South India,Kerala,Kerala,SG,1.28,Final
+2019-07-01,2019,7,2019-20,North India,Others (North),Others (NE & HP etc.),BG,1.28,Final
+2019-07-01,2019,7,2019-20,North India,Others (North),Others (NE & HP etc.),SG,2.42,Final
+2019-07-01,2019,7,2019-20,South India,Tamil Nadu,Tamil Nadu,BG,5.63,Final
+2019-07-01,2019,7,2019-20,South India,Tamil Nadu,Tamil Nadu,SG,9.77,Final
+2019-07-01,2019,7,2019-20,North India,West Bengal,Terai,BG,5.85,Final
+2019-07-01,2019,7,2019-20,North India,West Bengal,Terai,SG,15.53,Final
+2019-08-01,2019,8,2019-20,North India,Assam,Assam Valley,BG,49.36,Final
+2019-08-01,2019,8,2019-20,North India,Assam,Assam Valley,SG,42.63,Final
+2019-08-01,2019,8,2019-20,North India,Assam,Cachar,BG,5.83,Final
+2019-08-01,2019,8,2019-20,North India,Assam,Cachar,SG,0.07,Final
+2019-08-01,2019,8,2019-20,North India,West Bengal,Darjeeling,BG,1.47,Final
+2019-08-01,2019,8,2019-20,North India,West Bengal,Darjeeling,SG,0.03,Final
+2019-08-01,2019,8,2019-20,North India,West Bengal,Dooars,BG,18.17,Final
+2019-08-01,2019,8,2019-20,North India,West Bengal,Dooars,SG,13.6,Final
+2019-08-01,2019,8,2019-20,South India,Karnataka,Karnataka,BG,0.29,Final
+2019-08-01,2019,8,2019-20,South India,Karnataka,Karnataka,SG,0.02,Final
+2019-08-01,2019,8,2019-20,South India,Kerala,Kerala,BG,3.36,Final
+2019-08-01,2019,8,2019-20,South India,Kerala,Kerala,SG,0.84,Final
+2019-08-01,2019,8,2019-20,North India,Others (North),Others (NE & HP etc.),BG,1.49,Final
+2019-08-01,2019,8,2019-20,North India,Others (North),Others (NE & HP etc.),SG,2.71,Final
+2019-08-01,2019,8,2019-20,South India,Tamil Nadu,Tamil Nadu,BG,4.21,Final
+2019-08-01,2019,8,2019-20,South India,Tamil Nadu,Tamil Nadu,SG,6.05,Final
+2019-08-01,2019,8,2019-20,North India,West Bengal,Terai,BG,5.8,Final
+2019-08-01,2019,8,2019-20,North India,West Bengal,Terai,SG,16.3,Final
+2019-09-01,2019,9,2019-20,North India,Assam,Assam Valley,BG,55.42,Final
+2019-09-01,2019,9,2019-20,North India,Assam,Assam Valley,SG,47.51,Final
+2019-09-01,2019,9,2019-20,North India,Assam,Cachar,BG,6.02,Final
+2019-09-01,2019,9,2019-20,North India,Assam,Cachar,SG,0.07,Final
+2019-09-01,2019,9,2019-20,North India,West Bengal,Darjeeling,BG,1.14,Final
+2019-09-01,2019,9,2019-20,North India,West Bengal,Darjeeling,SG,0.01,Final
+2019-09-01,2019,9,2019-20,North India,West Bengal,Dooars,BG,18.69,Final
+2019-09-01,2019,9,2019-20,North India,West Bengal,Dooars,SG,13.01,Final
+2019-09-01,2019,9,2019-20,South India,Karnataka,Karnataka,BG,0.27,Final
+2019-09-01,2019,9,2019-20,South India,Karnataka,Karnataka,SG,0.01,Final
+2019-09-01,2019,9,2019-20,South India,Kerala,Kerala,BG,2.98,Final
+2019-09-01,2019,9,2019-20,South India,Kerala,Kerala,SG,0.61,Final
+2019-09-01,2019,9,2019-20,North India,Others (North),Others (NE & HP etc.),BG,1.45,Final
+2019-09-01,2019,9,2019-20,North India,Others (North),Others (NE & HP etc.),SG,2.84,Final
+2019-09-01,2019,9,2019-20,South India,Tamil Nadu,Tamil Nadu,BG,4.35,Final
+2019-09-01,2019,9,2019-20,South India,Tamil Nadu,Tamil Nadu,SG,8.68,Final
+2019-09-01,2019,9,2019-20,North India,West Bengal,Terai,BG,6.42,Final
+2019-09-01,2019,9,2019-20,North India,West Bengal,Terai,SG,16.32,Final
+2019-10-01,2019,10,2019-20,North India,Assam,Assam Valley,BG,50.47,Final
+2019-10-01,2019,10,2019-20,North India,Assam,Assam Valley,SG,42.38,Final
+2019-10-01,2019,10,2019-20,North India,Assam,Cachar,BG,5.98,Final
+2019-10-01,2019,10,2019-20,North India,Assam,Cachar,SG,0.07,Final
+2019-10-01,2019,10,2019-20,North India,West Bengal,Darjeeling,BG,0.61,Final
+2019-10-01,2019,10,2019-20,North India,West Bengal,Darjeeling,SG,0.0,Final
+2019-10-01,2019,10,2019-20,North India,West Bengal,Dooars,BG,16.57,Final
+2019-10-01,2019,10,2019-20,North India,West Bengal,Dooars,SG,11.21,Final
+2019-10-01,2019,10,2019-20,South India,Karnataka,Karnataka,BG,0.56,Final
+2019-10-01,2019,10,2019-20,South India,Karnataka,Karnataka,SG,0.03,Final
+2019-10-01,2019,10,2019-20,South India,Kerala,Kerala,BG,5.54,Final
+2019-10-01,2019,10,2019-20,South India,Kerala,Kerala,SG,1.37,Final
+2019-10-01,2019,10,2019-20,North India,Others (North),Others (NE & HP etc.),BG,1.25,Final
+2019-10-01,2019,10,2019-20,North India,Others (North),Others (NE & HP etc.),SG,2.48,Final
+2019-10-01,2019,10,2019-20,South India,Tamil Nadu,Tamil Nadu,BG,6.6,Final
+2019-10-01,2019,10,2019-20,South India,Tamil Nadu,Tamil Nadu,SG,11.15,Final
+2019-10-01,2019,10,2019-20,North India,West Bengal,Terai,BG,5.68,Final
+2019-10-01,2019,10,2019-20,North India,West Bengal,Terai,SG,15.11,Final
+2019-11-01,2019,11,2019-20,North India,Assam,Assam Valley,BG,33.34,Final
+2019-11-01,2019,11,2019-20,North India,Assam,Assam Valley,SG,32.38,Final
+2019-11-01,2019,11,2019-20,North India,Assam,Cachar,BG,4.75,Final
+2019-11-01,2019,11,2019-20,North India,Assam,Cachar,SG,0.04,Final
+2019-11-01,2019,11,2019-20,North India,West Bengal,Darjeeling,BG,0.34,Final
+2019-11-01,2019,11,2019-20,North India,West Bengal,Darjeeling,SG,0.0,Final
+2019-11-01,2019,11,2019-20,North India,West Bengal,Dooars,BG,13.72,Final
+2019-11-01,2019,11,2019-20,North India,West Bengal,Dooars,SG,11.65,Final
+2019-11-01,2019,11,2019-20,South India,Karnataka,Karnataka,BG,0.36,Final
+2019-11-01,2019,11,2019-20,South India,Karnataka,Karnataka,SG,0.03,Final
+2019-11-01,2019,11,2019-20,South India,Kerala,Kerala,BG,4.77,Final
+2019-11-01,2019,11,2019-20,South India,Kerala,Kerala,SG,0.91,Final
+2019-11-01,2019,11,2019-20,North India,Others (North),Others (NE & HP etc.),BG,0.92,Final
+2019-11-01,2019,11,2019-20,North India,Others (North),Others (NE & HP etc.),SG,1.81,Final
+2019-11-01,2019,11,2019-20,South India,Tamil Nadu,Tamil Nadu,BG,5.83,Final
+2019-11-01,2019,11,2019-20,South India,Tamil Nadu,Tamil Nadu,SG,9.85,Final
+2019-11-01,2019,11,2019-20,North India,West Bengal,Terai,BG,4.44,Final
+2019-11-01,2019,11,2019-20,North India,West Bengal,Terai,SG,14.35,Final
+2019-12-01,2019,12,2019-20,North India,Assam,Assam Valley,BG,10.4,Final
+2019-12-01,2019,12,2019-20,North India,Assam,Assam Valley,SG,10.2,Final
+2019-12-01,2019,12,2019-20,North India,Assam,Cachar,BG,2.25,Final
+2019-12-01,2019,12,2019-20,North India,Assam,Cachar,SG,0.02,Final
+2019-12-01,2019,12,2019-20,North India,West Bengal,Darjeeling,BG,0.06,Final
+2019-12-01,2019,12,2019-20,North India,West Bengal,Darjeeling,SG,0.0,Final
+2019-12-01,2019,12,2019-20,North India,West Bengal,Dooars,BG,5.49,Final
+2019-12-01,2019,12,2019-20,North India,West Bengal,Dooars,SG,7.21,Final
+2019-12-01,2019,12,2019-20,South India,Karnataka,Karnataka,BG,0.48,Final
+2019-12-01,2019,12,2019-20,South India,Karnataka,Karnataka,SG,0.02,Final
+2019-12-01,2019,12,2019-20,South India,Kerala,Kerala,BG,4.07,Final
+2019-12-01,2019,12,2019-20,South India,Kerala,Kerala,SG,0.95,Final
+2019-12-01,2019,12,2019-20,North India,Others (North),Others (NE & HP etc.),BG,0.57,Final
+2019-12-01,2019,12,2019-20,North India,Others (North),Others (NE & HP etc.),SG,0.91,Final
+2019-12-01,2019,12,2019-20,South India,Tamil Nadu,Tamil Nadu,BG,4.7,Final
+2019-12-01,2019,12,2019-20,South India,Tamil Nadu,Tamil Nadu,SG,7.9,Final
+2019-12-01,2019,12,2019-20,North India,West Bengal,Terai,BG,2.2,Final
+2019-12-01,2019,12,2019-20,North India,West Bengal,Terai,SG,8.88,Final
+2020-01-01,2020,1,2019-20,North India,Assam,Assam Valley,BG,0.0,Final
+2020-01-01,2020,1,2019-20,North India,Assam,Assam Valley,SG,0.03,Final
+2020-01-01,2020,1,2019-20,North India,Assam,Cachar,BG,0.0,Final
+2020-01-01,2020,1,2019-20,North India,Assam,Cachar,SG,0.0,Final
+2020-01-01,2020,1,2019-20,North India,West Bengal,Darjeeling,BG,0.0,Final
+2020-01-01,2020,1,2019-20,North India,West Bengal,Darjeeling,SG,0.0,Final
+2020-01-01,2020,1,2019-20,North India,West Bengal,Dooars,BG,0.0,Final
+2020-01-01,2020,1,2019-20,North India,West Bengal,Dooars,SG,0.0,Final
+2020-01-01,2020,1,2019-20,South India,Karnataka,Karnataka,BG,0.4,Final
+2020-01-01,2020,1,2019-20,South India,Karnataka,Karnataka,SG,0.02,Final
+2020-01-01,2020,1,2019-20,South India,Kerala,Kerala,BG,4.08,Final
+2020-01-01,2020,1,2019-20,South India,Kerala,Kerala,SG,0.81,Final
+2020-01-01,2020,1,2019-20,North India,Others (North),Others (NE & HP etc.),BG,0.0,Final
+2020-01-01,2020,1,2019-20,North India,Others (North),Others (NE & HP etc.),SG,0.0,Final
+2020-01-01,2020,1,2019-20,South India,Tamil Nadu,Tamil Nadu,BG,4.47,Final
+2020-01-01,2020,1,2019-20,South India,Tamil Nadu,Tamil Nadu,SG,6.24,Final
+2020-01-01,2020,1,2019-20,North India,West Bengal,Terai,BG,0.0,Final
+2020-01-01,2020,1,2019-20,North India,West Bengal,Terai,SG,0.01,Final
+2020-02-01,2020,2,2019-20,North India,Assam,Assam Valley,BG,0.17,Final
+2020-02-01,2020,2,2019-20,North India,Assam,Assam Valley,SG,0.04,Final
+2020-02-01,2020,2,2019-20,North India,Assam,Cachar,BG,0.03,Final
+2020-02-01,2020,2,2019-20,North India,Assam,Cachar,SG,0.0,Final
+2020-02-01,2020,2,2019-20,North India,West Bengal,Darjeeling,BG,0.0,Final
+2020-02-01,2020,2,2019-20,North India,West Bengal,Darjeeling,SG,0.0,Final
+2020-02-01,2020,2,2019-20,North India,West Bengal,Dooars,BG,0.4,Final
+2020-02-01,2020,2,2019-20,North India,West Bengal,Dooars,SG,0.32,Final
+2020-02-01,2020,2,2019-20,South India,Karnataka,Karnataka,BG,0.31,Final
+2020-02-01,2020,2,2019-20,South India,Karnataka,Karnataka,SG,0.02,Final
+2020-02-01,2020,2,2019-20,South India,Kerala,Kerala,BG,3.02,Final
+2020-02-01,2020,2,2019-20,South India,Kerala,Kerala,SG,0.76,Final
+2020-02-01,2020,2,2019-20,North India,Others (North),Others (NE & HP etc.),BG,0.01,Final
+2020-02-01,2020,2,2019-20,North India,Others (North),Others (NE & HP etc.),SG,0.01,Final
+2020-02-01,2020,2,2019-20,South India,Tamil Nadu,Tamil Nadu,BG,3.77,Final
+2020-02-01,2020,2,2019-20,South India,Tamil Nadu,Tamil Nadu,SG,5.42,Final
+2020-02-01,2020,2,2019-20,North India,West Bengal,Terai,BG,0.07,Final
+2020-02-01,2020,2,2019-20,North India,West Bengal,Terai,SG,0.19,Final
+2020-03-01,2020,3,2019-20,North India,Assam,Assam Valley,BG,5.09,Final
+2020-03-01,2020,3,2019-20,North India,Assam,Assam Valley,SG,6.44,Final
+2020-03-01,2020,3,2019-20,North India,Assam,Cachar,BG,0.43,Final
+2020-03-01,2020,3,2019-20,North India,Assam,Cachar,SG,0.01,Final
+2020-03-01,2020,3,2019-20,North India,West Bengal,Darjeeling,BG,0.12,Final
+2020-03-01,2020,3,2019-20,North India,West Bengal,Darjeeling,SG,0.0,Final
+2020-03-01,2020,3,2019-20,North India,West Bengal,Dooars,BG,5.6,Final
+2020-03-01,2020,3,2019-20,North India,West Bengal,Dooars,SG,5.37,Final
+2020-03-01,2020,3,2019-20,South India,Karnataka,Karnataka,BG,0.32,Final
+2020-03-01,2020,3,2019-20,South India,Karnataka,Karnataka,SG,0.01,Final
+2020-03-01,2020,3,2019-20,South India,Kerala,Kerala,BG,2.39,Final
+2020-03-01,2020,3,2019-20,South India,Kerala,Kerala,SG,0.7,Final
+2020-03-01,2020,3,2019-20,North India,Others (North),Others (NE & HP etc.),BG,0.16,Final
+2020-03-01,2020,3,2019-20,North India,Others (North),Others (NE & HP etc.),SG,0.57,Final
+2020-03-01,2020,3,2019-20,South India,Tamil Nadu,Tamil Nadu,BG,3.53,Final
+2020-03-01,2020,3,2019-20,South India,Tamil Nadu,Tamil Nadu,SG,4.34,Final
+2020-03-01,2020,3,2019-20,North India,West Bengal,Terai,BG,1.84,Final
+2020-03-01,2020,3,2019-20,North India,West Bengal,Terai,SG,6.82,Final
+2020-04-01,2020,4,2020-21,North India,Assam,Assam Valley,BG,7.64,Final
+2020-04-01,2020,4,2020-21,North India,Assam,Assam Valley,SG,4.45,Final
+2020-04-01,2020,4,2020-21,North India,Assam,Cachar,BG,1.01,Final
+2020-04-01,2020,4,2020-21,North India,Assam,Cachar,SG,0.01,Final
+2020-04-01,2020,4,2020-21,North India,West Bengal,Darjeeling,BG,0.91,Final
+2020-04-01,2020,4,2020-21,North India,West Bengal,Darjeeling,SG,0.01,Final
+2020-04-01,2020,4,2020-21,North India,West Bengal,Dooars,BG,2.73,Final
+2020-04-01,2020,4,2020-21,North India,West Bengal,Dooars,SG,2.86,Final
+2020-04-01,2020,4,2020-21,South India,Karnataka,Karnataka,BG,0.37,Final
+2020-04-01,2020,4,2020-21,South India,Karnataka,Karnataka,SG,0.02,Final
+2020-04-01,2020,4,2020-21,South India,Kerala,Kerala,BG,3.77,Final
+2020-04-01,2020,4,2020-21,South India,Kerala,Kerala,SG,0.74,Final
+2020-04-01,2020,4,2020-21,North India,Others (North),Others (NE & HP etc.),BG,0.35,Final
+2020-04-01,2020,4,2020-21,North India,Others (North),Others (NE & HP etc.),SG,0.67,Final
+2020-04-01,2020,4,2020-21,South India,Tamil Nadu,Tamil Nadu,BG,5.03,Final
+2020-04-01,2020,4,2020-21,South India,Tamil Nadu,Tamil Nadu,SG,5.38,Final
+2020-04-01,2020,4,2020-21,North India,West Bengal,Terai,BG,1.09,Final
+2020-04-01,2020,4,2020-21,North India,West Bengal,Terai,SG,2.1,Final
+2020-05-01,2020,5,2020-21,North India,Assam,Assam Valley,BG,17.17,Final
+2020-05-01,2020,5,2020-21,North India,Assam,Assam Valley,SG,20.7,Final
+2020-05-01,2020,5,2020-21,North India,Assam,Cachar,BG,3.35,Final
+2020-05-01,2020,5,2020-21,North India,Assam,Cachar,SG,0.21,Final
+2020-05-01,2020,5,2020-21,North India,West Bengal,Darjeeling,BG,0.31,Final
+2020-05-01,2020,5,2020-21,North India,West Bengal,Darjeeling,SG,0.01,Final
+2020-05-01,2020,5,2020-21,North India,West Bengal,Dooars,BG,7.68,Final
+2020-05-01,2020,5,2020-21,North India,West Bengal,Dooars,SG,9.47,Final
+2020-05-01,2020,5,2020-21,South India,Karnataka,Karnataka,BG,0.52,Final
+2020-05-01,2020,5,2020-21,South India,Karnataka,Karnataka,SG,0.02,Final
+2020-05-01,2020,5,2020-21,South India,Kerala,Kerala,BG,6.04,Final
+2020-05-01,2020,5,2020-21,South India,Kerala,Kerala,SG,1.13,Final
+2020-05-01,2020,5,2020-21,North India,Others (North),Others (NE & HP etc.),BG,0.74,Final
+2020-05-01,2020,5,2020-21,North India,Others (North),Others (NE & HP etc.),SG,1.4,Final
+2020-05-01,2020,5,2020-21,South India,Tamil Nadu,Tamil Nadu,BG,6.05,Final
+2020-05-01,2020,5,2020-21,South India,Tamil Nadu,Tamil Nadu,SG,6.97,Final
+2020-05-01,2020,5,2020-21,North India,West Bengal,Terai,BG,2.79,Final
+2020-05-01,2020,5,2020-21,North India,West Bengal,Terai,SG,12.19,Final
+2020-06-01,2020,6,2020-21,North India,Assam,Assam Valley,BG,33.34,Final
+2020-06-01,2020,6,2020-21,North India,Assam,Assam Valley,SG,29.76,Final
+2020-06-01,2020,6,2020-21,North India,Assam,Cachar,BG,3.49,Final
+2020-06-01,2020,6,2020-21,North India,Assam,Cachar,SG,0.21,Final
+2020-06-01,2020,6,2020-21,North India,West Bengal,Darjeeling,BG,0.73,Final
+2020-06-01,2020,6,2020-21,North India,West Bengal,Darjeeling,SG,0.03,Final
+2020-06-01,2020,6,2020-21,North India,West Bengal,Dooars,BG,14.23,Final
+2020-06-01,2020,6,2020-21,North India,West Bengal,Dooars,SG,12.53,Final
+2020-06-01,2020,6,2020-21,South India,Karnataka,Karnataka,BG,0.55,Final
+2020-06-01,2020,6,2020-21,South India,Karnataka,Karnataka,SG,0.03,Final
+2020-06-01,2020,6,2020-21,South India,Kerala,Kerala,BG,5.0,Final
+2020-06-01,2020,6,2020-21,South India,Kerala,Kerala,SG,0.98,Final
+2020-06-01,2020,6,2020-21,North India,Others (North),Others (NE & HP etc.),BG,0.95,Final
+2020-06-01,2020,6,2020-21,North India,Others (North),Others (NE & HP etc.),SG,2.16,Final
+2020-06-01,2020,6,2020-21,South India,Tamil Nadu,Tamil Nadu,BG,5.86,Final
+2020-06-01,2020,6,2020-21,South India,Tamil Nadu,Tamil Nadu,SG,9.7,Final
+2020-06-01,2020,6,2020-21,North India,West Bengal,Terai,BG,4.7,Final
+2020-06-01,2020,6,2020-21,North India,West Bengal,Terai,SG,15.0,Final
+2020-07-01,2020,7,2020-21,North India,Assam,Assam Valley,BG,43.54,Final
+2020-07-01,2020,7,2020-21,North India,Assam,Assam Valley,SG,40.5,Final
+2020-07-01,2020,7,2020-21,North India,Assam,Cachar,BG,5.55,Final
+2020-07-01,2020,7,2020-21,North India,Assam,Cachar,SG,0.15,Final
+2020-07-01,2020,7,2020-21,North India,West Bengal,Darjeeling,BG,1.08,Final
+2020-07-01,2020,7,2020-21,North India,West Bengal,Darjeeling,SG,0.05,Final
+2020-07-01,2020,7,2020-21,North India,West Bengal,Dooars,BG,14.33,Final
+2020-07-01,2020,7,2020-21,North India,West Bengal,Dooars,SG,12.93,Final
+2020-07-01,2020,7,2020-21,South India,Karnataka,Karnataka,BG,0.43,Final
+2020-07-01,2020,7,2020-21,South India,Karnataka,Karnataka,SG,0.02,Final
+2020-07-01,2020,7,2020-21,South India,Kerala,Kerala,BG,4.5,Final
+2020-07-01,2020,7,2020-21,South India,Kerala,Kerala,SG,1.01,Final
+2020-07-01,2020,7,2020-21,North India,Others (North),Others (NE & HP etc.),BG,1.27,Final
+2020-07-01,2020,7,2020-21,North India,Others (North),Others (NE & HP etc.),SG,2.45,Final
+2020-07-01,2020,7,2020-21,South India,Tamil Nadu,Tamil Nadu,BG,5.35,Final
+2020-07-01,2020,7,2020-21,South India,Tamil Nadu,Tamil Nadu,SG,9.0,Final
+2020-07-01,2020,7,2020-21,North India,West Bengal,Terai,BG,5.34,Final
+2020-07-01,2020,7,2020-21,North India,West Bengal,Terai,SG,13.95,Final
+2020-08-01,2020,8,2020-21,North India,Assam,Assam Valley,BG,41.57,Final
+2020-08-01,2020,8,2020-21,North India,Assam,Assam Valley,SG,38.7,Final
+2020-08-01,2020,8,2020-21,North India,Assam,Cachar,BG,5.48,Final
+2020-08-01,2020,8,2020-21,North India,Assam,Cachar,SG,0.11,Final
+2020-08-01,2020,8,2020-21,North India,West Bengal,Darjeeling,BG,1.17,Final
+2020-08-01,2020,8,2020-21,North India,West Bengal,Darjeeling,SG,0.03,Final
+2020-08-01,2020,8,2020-21,North India,West Bengal,Dooars,BG,17.17,Final
+2020-08-01,2020,8,2020-21,North India,West Bengal,Dooars,SG,13.84,Final
+2020-08-01,2020,8,2020-21,South India,Karnataka,Karnataka,BG,0.24,Final
+2020-08-01,2020,8,2020-21,South India,Karnataka,Karnataka,SG,0.01,Final
+2020-08-01,2020,8,2020-21,South India,Kerala,Kerala,BG,3.62,Final
+2020-08-01,2020,8,2020-21,South India,Kerala,Kerala,SG,0.67,Final
+2020-08-01,2020,8,2020-21,North India,Others (North),Others (NE & HP etc.),BG,1.39,Final
+2020-08-01,2020,8,2020-21,North India,Others (North),Others (NE & HP etc.),SG,2.72,Final
+2020-08-01,2020,8,2020-21,South India,Tamil Nadu,Tamil Nadu,BG,4.22,Final
+2020-08-01,2020,8,2020-21,South India,Tamil Nadu,Tamil Nadu,SG,8.02,Final
+2020-08-01,2020,8,2020-21,North India,West Bengal,Terai,BG,5.64,Final
+2020-08-01,2020,8,2020-21,North India,West Bengal,Terai,SG,15.2,Final
+2020-09-01,2020,9,2020-21,North India,Assam,Assam Valley,BG,52.22,Final
+2020-09-01,2020,9,2020-21,North India,Assam,Assam Valley,SG,49.0,Final
+2020-09-01,2020,9,2020-21,North India,Assam,Cachar,BG,6.1,Final
+2020-09-01,2020,9,2020-21,North India,Assam,Cachar,SG,0.2,Final
+2020-09-01,2020,9,2020-21,North India,West Bengal,Darjeeling,BG,0.94,Final
+2020-09-01,2020,9,2020-21,North India,West Bengal,Darjeeling,SG,0.02,Final
+2020-09-01,2020,9,2020-21,North India,West Bengal,Dooars,BG,17.89,Final
+2020-09-01,2020,9,2020-21,North India,West Bengal,Dooars,SG,12.88,Final
+2020-09-01,2020,9,2020-21,South India,Karnataka,Karnataka,BG,0.35,Final
+2020-09-01,2020,9,2020-21,South India,Karnataka,Karnataka,SG,0.02,Final
+2020-09-01,2020,9,2020-21,South India,Kerala,Kerala,BG,4.46,Final
+2020-09-01,2020,9,2020-21,South India,Kerala,Kerala,SG,1.0,Final
+2020-09-01,2020,9,2020-21,North India,Others (North),Others (NE & HP etc.),BG,1.48,Final
+2020-09-01,2020,9,2020-21,North India,Others (North),Others (NE & HP etc.),SG,2.88,Final
+2020-09-01,2020,9,2020-21,South India,Tamil Nadu,Tamil Nadu,BG,5.82,Final
+2020-09-01,2020,9,2020-21,South India,Tamil Nadu,Tamil Nadu,SG,12.5,Final
+2020-09-01,2020,9,2020-21,North India,West Bengal,Terai,BG,5.8,Final
+2020-09-01,2020,9,2020-21,North India,West Bengal,Terai,SG,14.47,Final
+2020-10-01,2020,10,2020-21,North India,Assam,Assam Valley,BG,47.45,Final
+2020-10-01,2020,10,2020-21,North India,Assam,Assam Valley,SG,44.71,Final
+2020-10-01,2020,10,2020-21,North India,Assam,Cachar,BG,5.27,Final
+2020-10-01,2020,10,2020-21,North India,Assam,Cachar,SG,0.16,Final
+2020-10-01,2020,10,2020-21,North India,West Bengal,Darjeeling,BG,0.58,Final
+2020-10-01,2020,10,2020-21,North India,West Bengal,Darjeeling,SG,0.02,Final
+2020-10-01,2020,10,2020-21,North India,West Bengal,Dooars,BG,18.86,Final
+2020-10-01,2020,10,2020-21,North India,West Bengal,Dooars,SG,13.15,Final
+2020-10-01,2020,10,2020-21,South India,Karnataka,Karnataka,BG,0.4,Final
+2020-10-01,2020,10,2020-21,South India,Karnataka,Karnataka,SG,0.02,Final
+2020-10-01,2020,10,2020-21,South India,Kerala,Kerala,BG,4.23,Final
+2020-10-01,2020,10,2020-21,South India,Kerala,Kerala,SG,0.95,Final
+2020-10-01,2020,10,2020-21,North India,Others (North),Others (NE & HP etc.),BG,1.29,Final
+2020-10-01,2020,10,2020-21,North India,Others (North),Others (NE & HP etc.),SG,2.75,Final
+2020-10-01,2020,10,2020-21,South India,Tamil Nadu,Tamil Nadu,BG,5.38,Final
+2020-10-01,2020,10,2020-21,South India,Tamil Nadu,Tamil Nadu,SG,9.18,Final
+2020-10-01,2020,10,2020-21,North India,West Bengal,Terai,BG,5.81,Final
+2020-10-01,2020,10,2020-21,North India,West Bengal,Terai,SG,15.47,Final
+2020-11-01,2020,11,2020-21,North India,Assam,Assam Valley,BG,35.96,Final
+2020-11-01,2020,11,2020-21,North India,Assam,Assam Valley,SG,37.32,Final
+2020-11-01,2020,11,2020-21,North India,Assam,Cachar,BG,5.86,Final
+2020-11-01,2020,11,2020-21,North India,Assam,Cachar,SG,0.15,Final
+2020-11-01,2020,11,2020-21,North India,West Bengal,Darjeeling,BG,0.57,Final
+2020-11-01,2020,11,2020-21,North India,West Bengal,Darjeeling,SG,0.02,Final
+2020-11-01,2020,11,2020-21,North India,West Bengal,Dooars,BG,15.19,Final
+2020-11-01,2020,11,2020-21,North India,West Bengal,Dooars,SG,12.64,Final
+2020-11-01,2020,11,2020-21,South India,Karnataka,Karnataka,BG,0.44,Final
+2020-11-01,2020,11,2020-21,South India,Karnataka,Karnataka,SG,0.03,Final
+2020-11-01,2020,11,2020-21,South India,Kerala,Kerala,BG,5.34,Final
+2020-11-01,2020,11,2020-21,South India,Kerala,Kerala,SG,1.66,Final
+2020-11-01,2020,11,2020-21,North India,Others (North),Others (NE & HP etc.),BG,1.26,Final
+2020-11-01,2020,11,2020-21,North India,Others (North),Others (NE & HP etc.),SG,1.97,Final
+2020-11-01,2020,11,2020-21,South India,Tamil Nadu,Tamil Nadu,BG,5.61,Final
+2020-11-01,2020,11,2020-21,South India,Tamil Nadu,Tamil Nadu,SG,8.34,Final
+2020-11-01,2020,11,2020-21,North India,West Bengal,Terai,BG,4.72,Final
+2020-11-01,2020,11,2020-21,North India,West Bengal,Terai,SG,11.92,Final
+2020-12-01,2020,12,2020-21,North India,Assam,Assam Valley,BG,9.92,Final
+2020-12-01,2020,12,2020-21,North India,Assam,Assam Valley,SG,12.16,Final
+2020-12-01,2020,12,2020-21,North India,Assam,Cachar,BG,2.37,Final
+2020-12-01,2020,12,2020-21,North India,Assam,Cachar,SG,0.17,Final
+2020-12-01,2020,12,2020-21,North India,West Bengal,Darjeeling,BG,0.1,Final
+2020-12-01,2020,12,2020-21,North India,West Bengal,Darjeeling,SG,0.0,Final
+2020-12-01,2020,12,2020-21,North India,West Bengal,Dooars,BG,5.69,Final
+2020-12-01,2020,12,2020-21,North India,West Bengal,Dooars,SG,7.9,Final
+2020-12-01,2020,12,2020-21,South India,Karnataka,Karnataka,BG,0.56,Final
+2020-12-01,2020,12,2020-21,South India,Karnataka,Karnataka,SG,0.02,Final
+2020-12-01,2020,12,2020-21,South India,Kerala,Kerala,BG,5.01,Final
+2020-12-01,2020,12,2020-21,South India,Kerala,Kerala,SG,1.22,Final
+2020-12-01,2020,12,2020-21,North India,Others (North),Others (NE & HP etc.),BG,0.55,Final
+2020-12-01,2020,12,2020-21,North India,Others (North),Others (NE & HP etc.),SG,1.0,Final
+2020-12-01,2020,12,2020-21,South India,Tamil Nadu,Tamil Nadu,BG,5.79,Final
+2020-12-01,2020,12,2020-21,South India,Tamil Nadu,Tamil Nadu,SG,7.86,Final
+2020-12-01,2020,12,2020-21,North India,West Bengal,Terai,BG,2.06,Final
+2020-12-01,2020,12,2020-21,North India,West Bengal,Terai,SG,11.71,Final
+2021-01-01,2021,1,2020-21,North India,Assam,Assam Valley,BG,0.0,Final
+2021-01-01,2021,1,2020-21,North India,Assam,Assam Valley,SG,0.0,Final
+2021-01-01,2021,1,2020-21,North India,Assam,Cachar,BG,0.0,Final
+2021-01-01,2021,1,2020-21,North India,Assam,Cachar,SG,0.0,Final
+2021-01-01,2021,1,2020-21,North India,West Bengal,Darjeeling,BG,0.0,Final
+2021-01-01,2021,1,2020-21,North India,West Bengal,Darjeeling,SG,0.0,Final
+2021-01-01,2021,1,2020-21,North India,West Bengal,Dooars,BG,0.0,Final
+2021-01-01,2021,1,2020-21,North India,West Bengal,Dooars,SG,0.0,Final
+2021-01-01,2021,1,2020-21,South India,Karnataka,Karnataka,BG,0.36,Final
+2021-01-01,2021,1,2020-21,South India,Karnataka,Karnataka,SG,0.02,Final
+2021-01-01,2021,1,2020-21,South India,Kerala,Kerala,BG,4.07,Final
+2021-01-01,2021,1,2020-21,South India,Kerala,Kerala,SG,1.18,Final
+2021-01-01,2021,1,2020-21,North India,Others (North),Others (NE & HP etc.),BG,0.0,Final
+2021-01-01,2021,1,2020-21,North India,Others (North),Others (NE & HP etc.),SG,0.0,Final
+2021-01-01,2021,1,2020-21,South India,Tamil Nadu,Tamil Nadu,BG,4.32,Final
+2021-01-01,2021,1,2020-21,South India,Tamil Nadu,Tamil Nadu,SG,5.94,Final
+2021-01-01,2021,1,2020-21,North India,West Bengal,Terai,BG,0.0,Final
+2021-01-01,2021,1,2020-21,North India,West Bengal,Terai,SG,0.0,Final
+2021-02-01,2021,2,2020-21,North India,Assam,Assam Valley,BG,0.18,Final
+2021-02-01,2021,2,2020-21,North India,Assam,Assam Valley,SG,0.02,Final
+2021-02-01,2021,2,2020-21,North India,Assam,Cachar,BG,0.02,Final
+2021-02-01,2021,2,2020-21,North India,Assam,Cachar,SG,0.0,Final
+2021-02-01,2021,2,2020-21,North India,West Bengal,Darjeeling,BG,0.0,Final
+2021-02-01,2021,2,2020-21,North India,West Bengal,Darjeeling,SG,0.0,Final
+2021-02-01,2021,2,2020-21,North India,West Bengal,Dooars,BG,0.68,Final
+2021-02-01,2021,2,2020-21,North India,West Bengal,Dooars,SG,0.83,Final
+2021-02-01,2021,2,2020-21,South India,Karnataka,Karnataka,BG,0.4,Final
+2021-02-01,2021,2,2020-21,South India,Karnataka,Karnataka,SG,0.03,Final
+2021-02-01,2021,2,2020-21,South India,Kerala,Kerala,BG,3.58,Final
+2021-02-01,2021,2,2020-21,South India,Kerala,Kerala,SG,1.06,Final
+2021-02-01,2021,2,2020-21,North India,Others (North),Others (NE & HP etc.),BG,0.01,Final
+2021-02-01,2021,2,2020-21,North India,Others (North),Others (NE & HP etc.),SG,0.02,Final
+2021-02-01,2021,2,2020-21,South India,Tamil Nadu,Tamil Nadu,BG,4.55,Final
+2021-02-01,2021,2,2020-21,South India,Tamil Nadu,Tamil Nadu,SG,5.7,Final
+2021-02-01,2021,2,2020-21,North India,West Bengal,Terai,BG,0.13,Final
+2021-02-01,2021,2,2020-21,North India,West Bengal,Terai,SG,0.29,Final
+2021-03-01,2021,3,2020-21,North India,Assam,Assam Valley,BG,7.76,Final
+2021-03-01,2021,3,2020-21,North India,Assam,Assam Valley,SG,11.44,Final
+2021-03-01,2021,3,2020-21,North India,Assam,Cachar,BG,0.84,Final
+2021-03-01,2021,3,2020-21,North India,Assam,Cachar,SG,0.01,Final
+2021-03-01,2021,3,2020-21,North India,West Bengal,Darjeeling,BG,0.16,Final
+2021-03-01,2021,3,2020-21,North India,West Bengal,Darjeeling,SG,0.0,Final
+2021-03-01,2021,3,2020-21,North India,West Bengal,Dooars,BG,7.79,Final
+2021-03-01,2021,3,2020-21,North India,West Bengal,Dooars,SG,7.15,Final
+2021-03-01,2021,3,2020-21,South India,Karnataka,Karnataka,BG,0.46,Final
+2021-03-01,2021,3,2020-21,South India,Karnataka,Karnataka,SG,0.02,Final
+2021-03-01,2021,3,2020-21,South India,Kerala,Kerala,BG,4.25,Final
+2021-03-01,2021,3,2020-21,South India,Kerala,Kerala,SG,1.38,Final
+2021-03-01,2021,3,2020-21,North India,Others (North),Others (NE & HP etc.),BG,0.28,Final
+2021-03-01,2021,3,2020-21,North India,Others (North),Others (NE & HP etc.),SG,0.93,Final
+2021-03-01,2021,3,2020-21,South India,Tamil Nadu,Tamil Nadu,BG,6.0,Final
+2021-03-01,2021,3,2020-21,South India,Tamil Nadu,Tamil Nadu,SG,7.47,Final
+2021-03-01,2021,3,2020-21,North India,West Bengal,Terai,BG,2.35,Final
+2021-03-01,2021,3,2020-21,North India,West Bengal,Terai,SG,8.16,Final
+2021-04-01,2021,4,2021-22,North India,Assam,Assam Valley,BG,14.58,Final
+2021-04-01,2021,4,2021-22,North India,Assam,Assam Valley,SG,14.91,Final
+2021-04-01,2021,4,2021-22,North India,Assam,Cachar,BG,2.38,Final
+2021-04-01,2021,4,2021-22,North India,Assam,Cachar,SG,0.06,Final
+2021-04-01,2021,4,2021-22,North India,West Bengal,Darjeeling,BG,0.63,Final
+2021-04-01,2021,4,2021-22,North India,West Bengal,Darjeeling,SG,0.04,Final
+2021-04-01,2021,4,2021-22,North India,West Bengal,Dooars,BG,6.63,Final
+2021-04-01,2021,4,2021-22,North India,West Bengal,Dooars,SG,5.86,Final
+2021-04-01,2021,4,2021-22,South India,Karnataka,Karnataka,BG,0.5,Final
+2021-04-01,2021,4,2021-22,South India,Karnataka,Karnataka,SG,0.06,Final
+2021-04-01,2021,4,2021-22,South India,Kerala,Kerala,BG,3.96,Final
+2021-04-01,2021,4,2021-22,South India,Kerala,Kerala,SG,1.0,Final
+2021-04-01,2021,4,2021-22,North India,Others (North),Others (NE & HP etc.),BG,0.72,Final
+2021-04-01,2021,4,2021-22,North India,Others (North),Others (NE & HP etc.),SG,1.2,Final
+2021-04-01,2021,4,2021-22,South India,Tamil Nadu,Tamil Nadu,BG,6.44,Final
+2021-04-01,2021,4,2021-22,South India,Tamil Nadu,Tamil Nadu,SG,10.31,Final
+2021-04-01,2021,4,2021-22,North India,West Bengal,Terai,BG,1.4,Final
+2021-04-01,2021,4,2021-22,North India,West Bengal,Terai,SG,4.02,Final
+2021-05-01,2021,5,2021-22,North India,Assam,Assam Valley,BG,16.03,Final
+2021-05-01,2021,5,2021-22,North India,Assam,Assam Valley,SG,17.13,Final
+2021-05-01,2021,5,2021-22,North India,Assam,Cachar,BG,3.47,Final
+2021-05-01,2021,5,2021-22,North India,Assam,Cachar,SG,0.08,Final
+2021-05-01,2021,5,2021-22,North India,West Bengal,Darjeeling,BG,0.55,Final
+2021-05-01,2021,5,2021-22,North India,West Bengal,Darjeeling,SG,0.02,Final
+2021-05-01,2021,5,2021-22,North India,West Bengal,Dooars,BG,11.98,Final
+2021-05-01,2021,5,2021-22,North India,West Bengal,Dooars,SG,10.46,Final
+2021-05-01,2021,5,2021-22,South India,Karnataka,Karnataka,BG,0.6,Final
+2021-05-01,2021,5,2021-22,South India,Karnataka,Karnataka,SG,0.03,Final
+2021-05-01,2021,5,2021-22,South India,Kerala,Kerala,BG,4.51,Final
+2021-05-01,2021,5,2021-22,South India,Kerala,Kerala,SG,1.42,Final
+2021-05-01,2021,5,2021-22,North India,Others (North),Others (NE & HP etc.),BG,0.75,Final
+2021-05-01,2021,5,2021-22,North India,Others (North),Others (NE & HP etc.),SG,1.69,Final
+2021-05-01,2021,5,2021-22,South India,Tamil Nadu,Tamil Nadu,BG,6.76,Final
+2021-05-01,2021,5,2021-22,South India,Tamil Nadu,Tamil Nadu,SG,11.09,Final
+2021-05-01,2021,5,2021-22,North India,West Bengal,Terai,BG,3.74,Final
+2021-05-01,2021,5,2021-22,North India,West Bengal,Terai,SG,12.24,Final
+2021-06-01,2021,6,2021-22,North India,Assam,Assam Valley,BG,41.78,Final
+2021-06-01,2021,6,2021-22,North India,Assam,Assam Valley,SG,44.59,Final
+2021-06-01,2021,6,2021-22,North India,Assam,Cachar,BG,4.93,Final
+2021-06-01,2021,6,2021-22,North India,Assam,Cachar,SG,0.15,Final
+2021-06-01,2021,6,2021-22,North India,West Bengal,Darjeeling,BG,0.99,Final
+2021-06-01,2021,6,2021-22,North India,West Bengal,Darjeeling,SG,0.03,Final
+2021-06-01,2021,6,2021-22,North India,West Bengal,Dooars,BG,14.64,Final
+2021-06-01,2021,6,2021-22,North India,West Bengal,Dooars,SG,13.11,Final
+2021-06-01,2021,6,2021-22,South India,Karnataka,Karnataka,BG,0.58,Final
+2021-06-01,2021,6,2021-22,South India,Karnataka,Karnataka,SG,0.03,Final
+2021-06-01,2021,6,2021-22,South India,Kerala,Kerala,BG,5.23,Final
+2021-06-01,2021,6,2021-22,South India,Kerala,Kerala,SG,1.23,Final
+2021-06-01,2021,6,2021-22,North India,Others (North),Others (NE & HP etc.),BG,1.49,Final
+2021-06-01,2021,6,2021-22,North India,Others (North),Others (NE & HP etc.),SG,2.8,Final
+2021-06-01,2021,6,2021-22,South India,Tamil Nadu,Tamil Nadu,BG,6.95,Final
+2021-06-01,2021,6,2021-22,South India,Tamil Nadu,Tamil Nadu,SG,11.33,Final
+2021-06-01,2021,6,2021-22,North India,West Bengal,Terai,BG,4.12,Final
+2021-06-01,2021,6,2021-22,North India,West Bengal,Terai,SG,17.06,Final
+2021-07-01,2021,7,2021-22,North India,Assam,Assam Valley,BG,49.2,Final
+2021-07-01,2021,7,2021-22,North India,Assam,Assam Valley,SG,48.78,Final
+2021-07-01,2021,7,2021-22,North India,Assam,Cachar,BG,5.73,Final
+2021-07-01,2021,7,2021-22,North India,Assam,Cachar,SG,0.17,Final
+2021-07-01,2021,7,2021-22,North India,West Bengal,Darjeeling,BG,1.07,Final
+2021-07-01,2021,7,2021-22,North India,West Bengal,Darjeeling,SG,0.03,Final
+2021-07-01,2021,7,2021-22,North India,West Bengal,Dooars,BG,15.14,Final
+2021-07-01,2021,7,2021-22,North India,West Bengal,Dooars,SG,13.52,Final
+2021-07-01,2021,7,2021-22,South India,Karnataka,Karnataka,BG,0.36,Final
+2021-07-01,2021,7,2021-22,South India,Karnataka,Karnataka,SG,0.02,Final
+2021-07-01,2021,7,2021-22,South India,Kerala,Kerala,BG,4.33,Final
+2021-07-01,2021,7,2021-22,South India,Kerala,Kerala,SG,1.0,Final
+2021-07-01,2021,7,2021-22,North India,Others (North),Others (NE & HP etc.),BG,1.62,Final
+2021-07-01,2021,7,2021-22,North India,Others (North),Others (NE & HP etc.),SG,3.0,Final
+2021-07-01,2021,7,2021-22,South India,Tamil Nadu,Tamil Nadu,BG,5.35,Final
+2021-07-01,2021,7,2021-22,South India,Tamil Nadu,Tamil Nadu,SG,10.82,Final
+2021-07-01,2021,7,2021-22,North India,West Bengal,Terai,BG,4.97,Final
+2021-07-01,2021,7,2021-22,North India,West Bengal,Terai,SG,15.34,Final
+2021-08-01,2021,8,2021-22,North India,Assam,Assam Valley,BG,50.33,Final
+2021-08-01,2021,8,2021-22,North India,Assam,Assam Valley,SG,42.08,Final
+2021-08-01,2021,8,2021-22,North India,Assam,Cachar,BG,5.66,Final
+2021-08-01,2021,8,2021-22,North India,Assam,Cachar,SG,0.33,Final
+2021-08-01,2021,8,2021-22,North India,West Bengal,Darjeeling,BG,1.25,Final
+2021-08-01,2021,8,2021-22,North India,West Bengal,Darjeeling,SG,0.04,Final
+2021-08-01,2021,8,2021-22,North India,West Bengal,Dooars,BG,17.69,Final
+2021-08-01,2021,8,2021-22,North India,West Bengal,Dooars,SG,12.81,Final
+2021-08-01,2021,8,2021-22,South India,Karnataka,Karnataka,BG,0.18,Final
+2021-08-01,2021,8,2021-22,South India,Karnataka,Karnataka,SG,0.02,Final
+2021-08-01,2021,8,2021-22,South India,Kerala,Kerala,BG,3.0,Final
+2021-08-01,2021,8,2021-22,South India,Kerala,Kerala,SG,0.54,Final
+2021-08-01,2021,8,2021-22,North India,Others (North),Others (NE & HP etc.),BG,1.68,Final
+2021-08-01,2021,8,2021-22,North India,Others (North),Others (NE & HP etc.),SG,2.85,Final
+2021-08-01,2021,8,2021-22,South India,Tamil Nadu,Tamil Nadu,BG,3.77,Final
+2021-08-01,2021,8,2021-22,South India,Tamil Nadu,Tamil Nadu,SG,9.08,Final
+2021-08-01,2021,8,2021-22,North India,West Bengal,Terai,BG,5.46,Final
+2021-08-01,2021,8,2021-22,North India,West Bengal,Terai,SG,14.85,Final
+2021-09-01,2021,9,2021-22,North India,Assam,Assam Valley,BG,46.82,Final
+2021-09-01,2021,9,2021-22,North India,Assam,Assam Valley,SG,40.35,Final
+2021-09-01,2021,9,2021-22,North India,Assam,Cachar,BG,4.8,Final
+2021-09-01,2021,9,2021-22,North India,Assam,Cachar,SG,0.13,Final
+2021-09-01,2021,9,2021-22,North India,West Bengal,Darjeeling,BG,0.83,Final
+2021-09-01,2021,9,2021-22,North India,West Bengal,Darjeeling,SG,0.04,Final
+2021-09-01,2021,9,2021-22,North India,West Bengal,Dooars,BG,15.97,Final
+2021-09-01,2021,9,2021-22,North India,West Bengal,Dooars,SG,11.92,Final
+2021-09-01,2021,9,2021-22,South India,Karnataka,Karnataka,BG,0.38,Final
+2021-09-01,2021,9,2021-22,South India,Karnataka,Karnataka,SG,0.03,Final
+2021-09-01,2021,9,2021-22,South India,Kerala,Kerala,BG,3.94,Final
+2021-09-01,2021,9,2021-22,South India,Kerala,Kerala,SG,1.0,Final
+2021-09-01,2021,9,2021-22,North India,Others (North),Others (NE & HP etc.),BG,1.47,Final
+2021-09-01,2021,9,2021-22,North India,Others (North),Others (NE & HP etc.),SG,2.67,Final
+2021-09-01,2021,9,2021-22,South India,Tamil Nadu,Tamil Nadu,BG,4.75,Final
+2021-09-01,2021,9,2021-22,South India,Tamil Nadu,Tamil Nadu,SG,10.51,Final
+2021-09-01,2021,9,2021-22,North India,West Bengal,Terai,BG,4.48,Final
+2021-09-01,2021,9,2021-22,North India,West Bengal,Terai,SG,13.08,Final
+2021-10-01,2021,10,2021-22,North India,Assam,Assam Valley,BG,52.88,Final
+2021-10-01,2021,10,2021-22,North India,Assam,Assam Valley,SG,50.68,Final
+2021-10-01,2021,10,2021-22,North India,Assam,Cachar,BG,8.23,Final
+2021-10-01,2021,10,2021-22,North India,Assam,Cachar,SG,0.16,Final
+2021-10-01,2021,10,2021-22,North India,West Bengal,Darjeeling,BG,0.84,Final
+2021-10-01,2021,10,2021-22,North India,West Bengal,Darjeeling,SG,0.04,Final
+2021-10-01,2021,10,2021-22,North India,West Bengal,Dooars,BG,18.45,Final
+2021-10-01,2021,10,2021-22,North India,West Bengal,Dooars,SG,13.68,Final
+2021-10-01,2021,10,2021-22,South India,Karnataka,Karnataka,BG,0.35,Final
+2021-10-01,2021,10,2021-22,South India,Karnataka,Karnataka,SG,0.03,Final
+2021-10-01,2021,10,2021-22,South India,Kerala,Kerala,BG,4.58,Final
+2021-10-01,2021,10,2021-22,South India,Kerala,Kerala,SG,1.05,Final
+2021-10-01,2021,10,2021-22,North India,Others (North),Others (NE & HP etc.),BG,1.66,Final
+2021-10-01,2021,10,2021-22,North India,Others (North),Others (NE & HP etc.),SG,3.11,Final
+2021-10-01,2021,10,2021-22,South India,Tamil Nadu,Tamil Nadu,BG,4.91,Final
+2021-10-01,2021,10,2021-22,South India,Tamil Nadu,Tamil Nadu,SG,10.47,Final
+2021-10-01,2021,10,2021-22,North India,West Bengal,Terai,BG,5.52,Final
+2021-10-01,2021,10,2021-22,North India,West Bengal,Terai,SG,16.35,Final
+2021-11-01,2021,11,2021-22,North India,Assam,Assam Valley,BG,26.6,Final
+2021-11-01,2021,11,2021-22,North India,Assam,Assam Valley,SG,29.9,Final
+2021-11-01,2021,11,2021-22,North India,Assam,Cachar,BG,4.48,Final
+2021-11-01,2021,11,2021-22,North India,Assam,Cachar,SG,0.17,Final
+2021-11-01,2021,11,2021-22,North India,West Bengal,Darjeeling,BG,0.36,Final
+2021-11-01,2021,11,2021-22,North India,West Bengal,Darjeeling,SG,0.01,Final
+2021-11-01,2021,11,2021-22,North India,West Bengal,Dooars,BG,11.98,Final
+2021-11-01,2021,11,2021-22,North India,West Bengal,Dooars,SG,11.32,Final
+2021-11-01,2021,11,2021-22,South India,Karnataka,Karnataka,BG,0.46,Final
+2021-11-01,2021,11,2021-22,South India,Karnataka,Karnataka,SG,0.02,Final
+2021-11-01,2021,11,2021-22,South India,Kerala,Kerala,BG,3.53,Final
+2021-11-01,2021,11,2021-22,South India,Kerala,Kerala,SG,0.97,Final
+2021-11-01,2021,11,2021-22,North India,Others (North),Others (NE & HP etc.),BG,0.89,Final
+2021-11-01,2021,11,2021-22,North India,Others (North),Others (NE & HP etc.),SG,1.77,Final
+2021-11-01,2021,11,2021-22,South India,Tamil Nadu,Tamil Nadu,BG,4.1,Final
+2021-11-01,2021,11,2021-22,South India,Tamil Nadu,Tamil Nadu,SG,7.64,Final
+2021-11-01,2021,11,2021-22,North India,West Bengal,Terai,BG,3.72,Final
+2021-11-01,2021,11,2021-22,North India,West Bengal,Terai,SG,12.93,Final
+2021-12-01,2021,12,2021-22,North India,Assam,Assam Valley,BG,7.82,Final
+2021-12-01,2021,12,2021-22,North India,Assam,Assam Valley,SG,9.93,Final
+2021-12-01,2021,12,2021-22,North India,Assam,Cachar,BG,2.09,Final
+2021-12-01,2021,12,2021-22,North India,Assam,Cachar,SG,0.05,Final
+2021-12-01,2021,12,2021-22,North India,West Bengal,Darjeeling,BG,0.08,Final
+2021-12-01,2021,12,2021-22,North India,West Bengal,Darjeeling,SG,0.0,Final
+2021-12-01,2021,12,2021-22,North India,West Bengal,Dooars,BG,6.08,Final
+2021-12-01,2021,12,2021-22,North India,West Bengal,Dooars,SG,8.06,Final
+2021-12-01,2021,12,2021-22,South India,Karnataka,Karnataka,BG,0.28,Final
+2021-12-01,2021,12,2021-22,South India,Karnataka,Karnataka,SG,0.02,Final
+2021-12-01,2021,12,2021-22,South India,Kerala,Kerala,BG,3.36,Final
+2021-12-01,2021,12,2021-22,South India,Kerala,Kerala,SG,0.94,Final
+2021-12-01,2021,12,2021-22,North India,Others (North),Others (NE & HP etc.),BG,0.5,Final
+2021-12-01,2021,12,2021-22,North India,Others (North),Others (NE & HP etc.),SG,1.03,Final
+2021-12-01,2021,12,2021-22,South India,Tamil Nadu,Tamil Nadu,BG,3.56,Final
+2021-12-01,2021,12,2021-22,South India,Tamil Nadu,Tamil Nadu,SG,6.85,Final
+2021-12-01,2021,12,2021-22,North India,West Bengal,Terai,BG,2.17,Final
+2021-12-01,2021,12,2021-22,North India,West Bengal,Terai,SG,13.03,Final
+2022-01-01,2022,1,2021-22,North India,Assam,Assam Valley,BG,0.0,Final
+2022-01-01,2022,1,2021-22,North India,Assam,Assam Valley,SG,0.0,Final
+2022-01-01,2022,1,2021-22,North India,Assam,Cachar,BG,0.0,Final
+2022-01-01,2022,1,2021-22,North India,Assam,Cachar,SG,0.0,Final
+2022-01-01,2022,1,2021-22,North India,West Bengal,Darjeeling,BG,0.0,Final
+2022-01-01,2022,1,2021-22,North India,West Bengal,Darjeeling,SG,0.0,Final
+2022-01-01,2022,1,2021-22,North India,West Bengal,Dooars,BG,0.0,Final
+2022-01-01,2022,1,2021-22,North India,West Bengal,Dooars,SG,0.0,Final
+2022-01-01,2022,1,2021-22,South India,Karnataka,Karnataka,BG,0.42,Final
+2022-01-01,2022,1,2021-22,South India,Karnataka,Karnataka,SG,0.03,Final
+2022-01-01,2022,1,2021-22,South India,Kerala,Kerala,BG,5.25,Final
+2022-01-01,2022,1,2021-22,South India,Kerala,Kerala,SG,1.19,Final
+2022-01-01,2022,1,2021-22,North India,Others (North),Others (NE & HP etc.),BG,0.0,Final
+2022-01-01,2022,1,2021-22,North India,Others (North),Others (NE & HP etc.),SG,0.0,Final
+2022-01-01,2022,1,2021-22,South India,Tamil Nadu,Tamil Nadu,BG,4.18,Final
+2022-01-01,2022,1,2021-22,South India,Tamil Nadu,Tamil Nadu,SG,5.15,Final
+2022-01-01,2022,1,2021-22,North India,West Bengal,Terai,BG,0.0,Final
+2022-01-01,2022,1,2021-22,North India,West Bengal,Terai,SG,0.0,Final
+2022-02-01,2022,2,2021-22,North India,Assam,Assam Valley,BG,0.1,Final
+2022-02-01,2022,2,2021-22,North India,Assam,Assam Valley,SG,0.04,Final
+2022-02-01,2022,2,2021-22,North India,Assam,Cachar,BG,0.04,Final
+2022-02-01,2022,2,2021-22,North India,Assam,Cachar,SG,0.0,Final
+2022-02-01,2022,2,2021-22,North India,West Bengal,Darjeeling,BG,0.0,Final
+2022-02-01,2022,2,2021-22,North India,West Bengal,Darjeeling,SG,0.0,Final
+2022-02-01,2022,2,2021-22,North India,West Bengal,Dooars,BG,0.3,Final
+2022-02-01,2022,2,2021-22,North India,West Bengal,Dooars,SG,0.5,Final
+2022-02-01,2022,2,2021-22,South India,Karnataka,Karnataka,BG,0.28,Final
+2022-02-01,2022,2,2021-22,South India,Karnataka,Karnataka,SG,0.01,Final
+2022-02-01,2022,2,2021-22,South India,Kerala,Kerala,BG,3.33,Final
+2022-02-01,2022,2,2021-22,South India,Kerala,Kerala,SG,0.79,Final
+2022-02-01,2022,2,2021-22,North India,Others (North),Others (NE & HP etc.),BG,0.0,Final
+2022-02-01,2022,2,2021-22,North India,Others (North),Others (NE & HP etc.),SG,0.0,Final
+2022-02-01,2022,2,2021-22,South India,Tamil Nadu,Tamil Nadu,BG,4.24,Final
+2022-02-01,2022,2,2021-22,South India,Tamil Nadu,Tamil Nadu,SG,5.97,Final
+2022-02-01,2022,2,2021-22,North India,West Bengal,Terai,BG,0.09,Final
+2022-02-01,2022,2,2021-22,North India,West Bengal,Terai,SG,0.79,Final
+2022-03-01,2022,3,2021-22,North India,Assam,Assam Valley,BG,9.36,Final
+2022-03-01,2022,3,2021-22,North India,Assam,Assam Valley,SG,14.28,Final
+2022-03-01,2022,3,2021-22,North India,Assam,Cachar,BG,0.84,Final
+2022-03-01,2022,3,2021-22,North India,Assam,Cachar,SG,0.02,Final
+2022-03-01,2022,3,2021-22,North India,West Bengal,Darjeeling,BG,0.3,Final
+2022-03-01,2022,3,2021-22,North India,West Bengal,Darjeeling,SG,0.0,Final
+2022-03-01,2022,3,2021-22,North India,West Bengal,Dooars,BG,7.47,Final
+2022-03-01,2022,3,2021-22,North India,West Bengal,Dooars,SG,7.43,Final
+2022-03-01,2022,3,2021-22,South India,Karnataka,Karnataka,BG,0.41,Final
+2022-03-01,2022,3,2021-22,South India,Karnataka,Karnataka,SG,0.02,Final
+2022-03-01,2022,3,2021-22,South India,Kerala,Kerala,BG,3.36,Final
+2022-03-01,2022,3,2021-22,South India,Kerala,Kerala,SG,0.85,Final
+2022-03-01,2022,3,2021-22,North India,Others (North),Others (NE & HP etc.),BG,0.26,Final
+2022-03-01,2022,3,2021-22,North India,Others (North),Others (NE & HP etc.),SG,1.01,Final
+2022-03-01,2022,3,2021-22,South India,Tamil Nadu,Tamil Nadu,BG,4.26,Final
+2022-03-01,2022,3,2021-22,South India,Tamil Nadu,Tamil Nadu,SG,7.39,Final
+2022-03-01,2022,3,2021-22,North India,West Bengal,Terai,BG,2.35,Final
+2022-03-01,2022,3,2021-22,North India,West Bengal,Terai,SG,8.87,Final
+2022-04-01,2022,4,2022-23,North India,Assam,Assam Valley,BG,18.99,Final
+2022-04-01,2022,4,2022-23,North India,Assam,Assam Valley,SG,22.01,Final
+2022-04-01,2022,4,2022-23,North India,Assam,Cachar,BG,2.97,Final
+2022-04-01,2022,4,2022-23,North India,Assam,Cachar,SG,0.09,Final
+2022-04-01,2022,4,2022-23,North India,West Bengal,Darjeeling,BG,1.19,Final
+2022-04-01,2022,4,2022-23,North India,West Bengal,Darjeeling,SG,0.02,Final
+2022-04-01,2022,4,2022-23,North India,West Bengal,Dooars,BG,7.37,Final
+2022-04-01,2022,4,2022-23,North India,West Bengal,Dooars,SG,7.16,Final
+2022-04-01,2022,4,2022-23,South India,Karnataka,Karnataka,BG,0.53,Final
+2022-04-01,2022,4,2022-23,South India,Karnataka,Karnataka,SG,0.02,Final
+2022-04-01,2022,4,2022-23,South India,Kerala,Kerala,BG,4.69,Final
+2022-04-01,2022,4,2022-23,South India,Kerala,Kerala,SG,1.16,Final
+2022-04-01,2022,4,2022-23,North India,Others (North),Others (NE & HP etc.),BG,0.78,Final
+2022-04-01,2022,4,2022-23,North India,Others (North),Others (NE & HP etc.),SG,1.5,Final
+2022-04-01,2022,4,2022-23,South India,Tamil Nadu,Tamil Nadu,BG,5.74,Final
+2022-04-01,2022,4,2022-23,South India,Tamil Nadu,Tamil Nadu,SG,8.66,Final
+2022-04-01,2022,4,2022-23,North India,West Bengal,Terai,BG,2.05,Final
+2022-04-01,2022,4,2022-23,North India,West Bengal,Terai,SG,8.32,Final
+2022-05-01,2022,5,2022-23,North India,Assam,Assam Valley,BG,24.84,Final
+2022-05-01,2022,5,2022-23,North India,Assam,Assam Valley,SG,31.94,Final
+2022-05-01,2022,5,2022-23,North India,Assam,Cachar,BG,3.27,Final
+2022-05-01,2022,5,2022-23,North India,Assam,Cachar,SG,0.09,Final
+2022-05-01,2022,5,2022-23,North India,West Bengal,Darjeeling,BG,0.38,Final
+2022-05-01,2022,5,2022-23,North India,West Bengal,Darjeeling,SG,0.01,Final
+2022-05-01,2022,5,2022-23,North India,West Bengal,Dooars,BG,11.63,Final
+2022-05-01,2022,5,2022-23,North India,West Bengal,Dooars,SG,10.6,Final
+2022-05-01,2022,5,2022-23,South India,Karnataka,Karnataka,BG,0.62,Final
+2022-05-01,2022,5,2022-23,South India,Karnataka,Karnataka,SG,0.04,Final
+2022-05-01,2022,5,2022-23,South India,Kerala,Kerala,BG,7.28,Final
+2022-05-01,2022,5,2022-23,South India,Kerala,Kerala,SG,1.45,Final
+2022-05-01,2022,5,2022-23,North India,Others (North),Others (NE & HP etc.),BG,0.81,Final
+2022-05-01,2022,5,2022-23,North India,Others (North),Others (NE & HP etc.),SG,1.9,Final
+2022-05-01,2022,5,2022-23,South India,Tamil Nadu,Tamil Nadu,BG,7.25,Final
+2022-05-01,2022,5,2022-23,South India,Tamil Nadu,Tamil Nadu,SG,11.16,Final
+2022-05-01,2022,5,2022-23,North India,West Bengal,Terai,BG,2.94,Final
+2022-05-01,2022,5,2022-23,North India,West Bengal,Terai,SG,12.97,Final
+2022-06-01,2022,6,2022-23,North India,Assam,Assam Valley,BG,35.94,Final
+2022-06-01,2022,6,2022-23,North India,Assam,Assam Valley,SG,35.32,Final
+2022-06-01,2022,6,2022-23,North India,Assam,Cachar,BG,3.75,Final
+2022-06-01,2022,6,2022-23,North India,Assam,Cachar,SG,0.15,Final
+2022-06-01,2022,6,2022-23,North India,West Bengal,Darjeeling,BG,0.8,Final
+2022-06-01,2022,6,2022-23,North India,West Bengal,Darjeeling,SG,0.03,Final
+2022-06-01,2022,6,2022-23,North India,West Bengal,Dooars,BG,11.66,Final
+2022-06-01,2022,6,2022-23,North India,West Bengal,Dooars,SG,10.55,Final
+2022-06-01,2022,6,2022-23,South India,Karnataka,Karnataka,BG,0.57,Final
+2022-06-01,2022,6,2022-23,South India,Karnataka,Karnataka,SG,0.04,Final
+2022-06-01,2022,6,2022-23,South India,Kerala,Kerala,BG,5.04,Final
+2022-06-01,2022,6,2022-23,South India,Kerala,Kerala,SG,1.15,Final
+2022-06-01,2022,6,2022-23,North India,Others (North),Others (NE & HP etc.),BG,1.1,Final
+2022-06-01,2022,6,2022-23,North India,Others (North),Others (NE & HP etc.),SG,2.59,Final
+2022-06-01,2022,6,2022-23,South India,Tamil Nadu,Tamil Nadu,BG,5.3,Final
+2022-06-01,2022,6,2022-23,South India,Tamil Nadu,Tamil Nadu,SG,11.75,Final
+2022-06-01,2022,6,2022-23,North India,West Bengal,Terai,BG,3.59,Final
+2022-06-01,2022,6,2022-23,North India,West Bengal,Terai,SG,13.79,Final
+2022-07-01,2022,7,2022-23,North India,Assam,Assam Valley,BG,40.48,Final
+2022-07-01,2022,7,2022-23,North India,Assam,Assam Valley,SG,38.09,Final
+2022-07-01,2022,7,2022-23,North India,Assam,Cachar,BG,4.81,Final
+2022-07-01,2022,7,2022-23,North India,Assam,Cachar,SG,0.13,Final
+2022-07-01,2022,7,2022-23,North India,West Bengal,Darjeeling,BG,1.02,Final
+2022-07-01,2022,7,2022-23,North India,West Bengal,Darjeeling,SG,0.02,Final
+2022-07-01,2022,7,2022-23,North India,West Bengal,Dooars,BG,16.36,Final
+2022-07-01,2022,7,2022-23,North India,West Bengal,Dooars,SG,12.47,Final
+2022-07-01,2022,7,2022-23,South India,Karnataka,Karnataka,BG,0.24,Final
+2022-07-01,2022,7,2022-23,South India,Karnataka,Karnataka,SG,0.02,Final
+2022-07-01,2022,7,2022-23,South India,Kerala,Kerala,BG,3.64,Final
+2022-07-01,2022,7,2022-23,South India,Kerala,Kerala,SG,0.88,Final
+2022-07-01,2022,7,2022-23,North India,Others (North),Others (NE & HP etc.),BG,1.23,Final
+2022-07-01,2022,7,2022-23,North India,Others (North),Others (NE & HP etc.),SG,2.46,Final
+2022-07-01,2022,7,2022-23,South India,Tamil Nadu,Tamil Nadu,BG,4.74,Final
+2022-07-01,2022,7,2022-23,South India,Tamil Nadu,Tamil Nadu,SG,10.0,Final
+2022-07-01,2022,7,2022-23,North India,West Bengal,Terai,BG,4.78,Final
+2022-07-01,2022,7,2022-23,North India,West Bengal,Terai,SG,13.92,Final
+2022-08-01,2022,8,2022-23,North India,Assam,Assam Valley,BG,54.13,Final
+2022-08-01,2022,8,2022-23,North India,Assam,Assam Valley,SG,49.35,Final
+2022-08-01,2022,8,2022-23,North India,Assam,Cachar,BG,6.09,Final
+2022-08-01,2022,8,2022-23,North India,Assam,Cachar,SG,0.24,Final
+2022-08-01,2022,8,2022-23,North India,West Bengal,Darjeeling,BG,1.09,Final
+2022-08-01,2022,8,2022-23,North India,West Bengal,Darjeeling,SG,0.03,Final
+2022-08-01,2022,8,2022-23,North India,West Bengal,Dooars,BG,17.75,Final
+2022-08-01,2022,8,2022-23,North India,West Bengal,Dooars,SG,14.71,Final
+2022-08-01,2022,8,2022-23,South India,Karnataka,Karnataka,BG,0.2,Final
+2022-08-01,2022,8,2022-23,South India,Karnataka,Karnataka,SG,0.02,Final
+2022-08-01,2022,8,2022-23,South India,Kerala,Kerala,BG,2.96,Final
+2022-08-01,2022,8,2022-23,South India,Kerala,Kerala,SG,0.64,Final
+2022-08-01,2022,8,2022-23,North India,Others (North),Others (NE & HP etc.),BG,1.7,Final
+2022-08-01,2022,8,2022-23,North India,Others (North),Others (NE & HP etc.),SG,3.27,Final
+2022-08-01,2022,8,2022-23,South India,Tamil Nadu,Tamil Nadu,BG,2.85,Final
+2022-08-01,2022,8,2022-23,South India,Tamil Nadu,Tamil Nadu,SG,7.84,Final
+2022-08-01,2022,8,2022-23,North India,West Bengal,Terai,BG,5.64,Final
+2022-08-01,2022,8,2022-23,North India,West Bengal,Terai,SG,16.97,Final
+2022-09-01,2022,9,2022-23,North India,Assam,Assam Valley,BG,54.15,Final
+2022-09-01,2022,9,2022-23,North India,Assam,Assam Valley,SG,53.09,Final
+2022-09-01,2022,9,2022-23,North India,Assam,Cachar,BG,5.59,Final
+2022-09-01,2022,9,2022-23,North India,Assam,Cachar,SG,0.21,Final
+2022-09-01,2022,9,2022-23,North India,West Bengal,Darjeeling,BG,0.8,Final
+2022-09-01,2022,9,2022-23,North India,West Bengal,Darjeeling,SG,0.31,Final
+2022-09-01,2022,9,2022-23,North India,West Bengal,Dooars,BG,16.61,Final
+2022-09-01,2022,9,2022-23,North India,West Bengal,Dooars,SG,14.89,Final
+2022-09-01,2022,9,2022-23,South India,Karnataka,Karnataka,BG,0.41,Final
+2022-09-01,2022,9,2022-23,South India,Karnataka,Karnataka,SG,0.03,Final
+2022-09-01,2022,9,2022-23,South India,Kerala,Kerala,BG,5.59,Final
+2022-09-01,2022,9,2022-23,South India,Kerala,Kerala,SG,1.31,Final
+2022-09-01,2022,9,2022-23,North India,Others (North),Others (NE & HP etc.),BG,1.4,Final
+2022-09-01,2022,9,2022-23,North India,Others (North),Others (NE & HP etc.),SG,3.01,Final
+2022-09-01,2022,9,2022-23,South India,Tamil Nadu,Tamil Nadu,BG,5.97,Final
+2022-09-01,2022,9,2022-23,South India,Tamil Nadu,Tamil Nadu,SG,10.16,Final
+2022-09-01,2022,9,2022-23,North India,West Bengal,Terai,BG,5.34,Final
+2022-09-01,2022,9,2022-23,North India,West Bengal,Terai,SG,16.82,Final
+2022-10-01,2022,10,2022-23,North India,Assam,Assam Valley,BG,44.62,Final
+2022-10-01,2022,10,2022-23,North India,Assam,Assam Valley,SG,40.3,Final
+2022-10-01,2022,10,2022-23,North India,Assam,Cachar,BG,5.65,Final
+2022-10-01,2022,10,2022-23,North India,Assam,Cachar,SG,0.15,Final
+2022-10-01,2022,10,2022-23,North India,West Bengal,Darjeeling,BG,0.51,Final
+2022-10-01,2022,10,2022-23,North India,West Bengal,Darjeeling,SG,0.01,Final
+2022-10-01,2022,10,2022-23,North India,West Bengal,Dooars,BG,18.64,Final
+2022-10-01,2022,10,2022-23,North India,West Bengal,Dooars,SG,11.94,Final
+2022-10-01,2022,10,2022-23,South India,Karnataka,Karnataka,BG,0.26,Final
+2022-10-01,2022,10,2022-23,South India,Karnataka,Karnataka,SG,0.02,Final
+2022-10-01,2022,10,2022-23,South India,Kerala,Kerala,BG,4.74,Final
+2022-10-01,2022,10,2022-23,South India,Kerala,Kerala,SG,0.94,Final
+2022-10-01,2022,10,2022-23,North India,Others (North),Others (NE & HP etc.),BG,1.25,Final
+2022-10-01,2022,10,2022-23,North India,Others (North),Others (NE & HP etc.),SG,2.51,Final
+2022-10-01,2022,10,2022-23,South India,Tamil Nadu,Tamil Nadu,BG,4.68,Final
+2022-10-01,2022,10,2022-23,South India,Tamil Nadu,Tamil Nadu,SG,8.28,Final
+2022-10-01,2022,10,2022-23,North India,West Bengal,Terai,BG,4.61,Final
+2022-10-01,2022,10,2022-23,North India,West Bengal,Terai,SG,14.04,Final
+2022-11-01,2022,11,2022-23,North India,Assam,Assam Valley,BG,28.67,Final
+2022-11-01,2022,11,2022-23,North India,Assam,Assam Valley,SG,33.61,Final
+2022-11-01,2022,11,2022-23,North India,Assam,Cachar,BG,4.56,Final
+2022-11-01,2022,11,2022-23,North India,Assam,Cachar,SG,0.2,Final
+2022-11-01,2022,11,2022-23,North India,West Bengal,Darjeeling,BG,0.34,Final
+2022-11-01,2022,11,2022-23,North India,West Bengal,Darjeeling,SG,0.01,Final
+2022-11-01,2022,11,2022-23,North India,West Bengal,Dooars,BG,12.19,Final
+2022-11-01,2022,11,2022-23,North India,West Bengal,Dooars,SG,11.71,Final
+2022-11-01,2022,11,2022-23,South India,Karnataka,Karnataka,BG,0.57,Final
+2022-11-01,2022,11,2022-23,South India,Karnataka,Karnataka,SG,0.03,Final
+2022-11-01,2022,11,2022-23,South India,Kerala,Kerala,BG,5.02,Final
+2022-11-01,2022,11,2022-23,South India,Kerala,Kerala,SG,1.48,Final
+2022-11-01,2022,11,2022-23,North India,Others (North),Others (NE & HP etc.),BG,0.99,Final
+2022-11-01,2022,11,2022-23,North India,Others (North),Others (NE & HP etc.),SG,2.2,Final
+2022-11-01,2022,11,2022-23,South India,Tamil Nadu,Tamil Nadu,BG,5.22,Final
+2022-11-01,2022,11,2022-23,South India,Tamil Nadu,Tamil Nadu,SG,8.99,Final
+2022-11-01,2022,11,2022-23,North India,West Bengal,Terai,BG,4.0,Final
+2022-11-01,2022,11,2022-23,North India,West Bengal,Terai,SG,15.7,Final
+2022-12-01,2022,12,2022-23,North India,Assam,Assam Valley,BG,8.83,Final
+2022-12-01,2022,12,2022-23,North India,Assam,Assam Valley,SG,9.63,Final
+2022-12-01,2022,12,2022-23,North India,Assam,Cachar,BG,2.03,Final
+2022-12-01,2022,12,2022-23,North India,Assam,Cachar,SG,0.05,Final
+2022-12-01,2022,12,2022-23,North India,West Bengal,Darjeeling,BG,0.06,Final
+2022-12-01,2022,12,2022-23,North India,West Bengal,Darjeeling,SG,0.0,Final
+2022-12-01,2022,12,2022-23,North India,West Bengal,Dooars,BG,5.25,Final
+2022-12-01,2022,12,2022-23,North India,West Bengal,Dooars,SG,7.62,Final
+2022-12-01,2022,12,2022-23,South India,Karnataka,Karnataka,BG,0.29,Final
+2022-12-01,2022,12,2022-23,South India,Karnataka,Karnataka,SG,0.02,Final
+2022-12-01,2022,12,2022-23,South India,Kerala,Kerala,BG,4.11,Final
+2022-12-01,2022,12,2022-23,South India,Kerala,Kerala,SG,0.85,Final
+2022-12-01,2022,12,2022-23,North India,Others (North),Others (NE & HP etc.),BG,0.54,Final
+2022-12-01,2022,12,2022-23,North India,Others (North),Others (NE & HP etc.),SG,1.25,Final
+2022-12-01,2022,12,2022-23,South India,Tamil Nadu,Tamil Nadu,BG,3.42,Final
+2022-12-01,2022,12,2022-23,South India,Tamil Nadu,Tamil Nadu,SG,5.82,Final
+2022-12-01,2022,12,2022-23,North India,West Bengal,Terai,BG,1.9,Final
+2022-12-01,2022,12,2022-23,North India,West Bengal,Terai,SG,12.86,Final
+2023-01-01,2023,1,2022-23,North India,Assam,Assam Valley,BG,0.0,Final
+2023-01-01,2023,1,2022-23,North India,Assam,Assam Valley,SG,0.0,Final
+2023-01-01,2023,1,2022-23,North India,Assam,Cachar,BG,0.0,Final
+2023-01-01,2023,1,2022-23,North India,Assam,Cachar,SG,0.0,Final
+2023-01-01,2023,1,2022-23,North India,West Bengal,Darjeeling,BG,0.0,Final
+2023-01-01,2023,1,2022-23,North India,West Bengal,Darjeeling,SG,0.0,Final
+2023-01-01,2023,1,2022-23,North India,West Bengal,Dooars,BG,0.0,Final
+2023-01-01,2023,1,2022-23,North India,West Bengal,Dooars,SG,0.0,Final
+2023-01-01,2023,1,2022-23,South India,Karnataka,Karnataka,BG,0.33,Final
+2023-01-01,2023,1,2022-23,South India,Karnataka,Karnataka,SG,0.03,Final
+2023-01-01,2023,1,2022-23,South India,Kerala,Kerala,BG,3.76,Final
+2023-01-01,2023,1,2022-23,South India,Kerala,Kerala,SG,0.88,Final
+2023-01-01,2023,1,2022-23,North India,Others (North),Others (NE & HP etc.),BG,0.0,Final
+2023-01-01,2023,1,2022-23,North India,Others (North),Others (NE & HP etc.),SG,0.0,Final
+2023-01-01,2023,1,2022-23,South India,Tamil Nadu,Tamil Nadu,BG,3.6,Final
+2023-01-01,2023,1,2022-23,South India,Tamil Nadu,Tamil Nadu,SG,5.03,Final
+2023-01-01,2023,1,2022-23,North India,West Bengal,Terai,BG,0.0,Final
+2023-01-01,2023,1,2022-23,North India,West Bengal,Terai,SG,0.0,Final
+2023-02-01,2023,2,2022-23,North India,Assam,Assam Valley,BG,0.24,Final
+2023-02-01,2023,2,2022-23,North India,Assam,Assam Valley,SG,0.05,Final
+2023-02-01,2023,2,2022-23,North India,Assam,Cachar,BG,0.03,Final
+2023-02-01,2023,2,2022-23,North India,Assam,Cachar,SG,0.0,Final
+2023-02-01,2023,2,2022-23,North India,West Bengal,Darjeeling,BG,0.0,Final
+2023-02-01,2023,2,2022-23,North India,West Bengal,Darjeeling,SG,0.0,Final
+2023-02-01,2023,2,2022-23,North India,West Bengal,Dooars,BG,0.55,Final
+2023-02-01,2023,2,2022-23,North India,West Bengal,Dooars,SG,1.13,Final
+2023-02-01,2023,2,2022-23,South India,Karnataka,Karnataka,BG,0.39,Final
+2023-02-01,2023,2,2022-23,South India,Karnataka,Karnataka,SG,0.01,Final
+2023-02-01,2023,2,2022-23,South India,Kerala,Kerala,BG,3.51,Final
+2023-02-01,2023,2,2022-23,South India,Kerala,Kerala,SG,0.72,Final
+2023-02-01,2023,2,2022-23,North India,Others (North),Others (NE & HP etc.),BG,0.02,Final
+2023-02-01,2023,2,2022-23,North India,Others (North),Others (NE & HP etc.),SG,0.02,Final
+2023-02-01,2023,2,2022-23,South India,Tamil Nadu,Tamil Nadu,BG,4.09,Final
+2023-02-01,2023,2,2022-23,South India,Tamil Nadu,Tamil Nadu,SG,4.6,Final
+2023-02-01,2023,2,2022-23,North India,West Bengal,Terai,BG,0.17,Final
+2023-02-01,2023,2,2022-23,North India,West Bengal,Terai,SG,1.02,Final
+2023-03-01,2023,3,2022-23,North India,Assam,Assam Valley,BG,13.38,Final
+2023-03-01,2023,3,2022-23,North India,Assam,Assam Valley,SG,20.0,Final
+2023-03-01,2023,3,2022-23,North India,Assam,Cachar,BG,0.64,Final
+2023-03-01,2023,3,2022-23,North India,Assam,Cachar,SG,0.02,Final
+2023-03-01,2023,3,2022-23,North India,West Bengal,Darjeeling,BG,0.17,Final
+2023-03-01,2023,3,2022-23,North India,West Bengal,Darjeeling,SG,0.0,Final
+2023-03-01,2023,3,2022-23,North India,West Bengal,Dooars,BG,8.23,Final
+2023-03-01,2023,3,2022-23,North India,West Bengal,Dooars,SG,8.45,Final
+2023-03-01,2023,3,2022-23,South India,Karnataka,Karnataka,BG,0.3,Final
+2023-03-01,2023,3,2022-23,South India,Karnataka,Karnataka,SG,0.01,Final
+2023-03-01,2023,3,2022-23,South India,Kerala,Kerala,BG,3.47,Final
+2023-03-01,2023,3,2022-23,South India,Kerala,Kerala,SG,0.71,Final
+2023-03-01,2023,3,2022-23,North India,Others (North),Others (NE & HP etc.),BG,0.55,Final
+2023-03-01,2023,3,2022-23,North India,Others (North),Others (NE & HP etc.),SG,1.2,Final
+2023-03-01,2023,3,2022-23,South India,Tamil Nadu,Tamil Nadu,BG,4.0,Final
+2023-03-01,2023,3,2022-23,South India,Tamil Nadu,Tamil Nadu,SG,5.34,Final
+2023-03-01,2023,3,2022-23,North India,West Bengal,Terai,BG,2.93,Final
+2023-03-01,2023,3,2022-23,North India,West Bengal,Terai,SG,10.21,Final
+2023-04-01,2023,4,2023-24,North India,Assam,Assam Valley,BG,16.51,Final
+2023-04-01,2023,4,2023-24,North India,Assam,Assam Valley,SG,18.91,Final
+2023-04-01,2023,4,2023-24,North India,Assam,Cachar,BG,2.59,Final
+2023-04-01,2023,4,2023-24,North India,Assam,Cachar,SG,0.09,Final
+2023-04-01,2023,4,2023-24,North India,West Bengal,Darjeeling,BG,1.01,Final
+2023-04-01,2023,4,2023-24,North India,West Bengal,Darjeeling,SG,0.04,Final
+2023-04-01,2023,4,2023-24,North India,West Bengal,Dooars,BG,6.33,Final
+2023-04-01,2023,4,2023-24,North India,West Bengal,Dooars,SG,6.69,Final
+2023-04-01,2023,4,2023-24,South India,Karnataka,Karnataka,BG,0.24,Final
+2023-04-01,2023,4,2023-24,South India,Karnataka,Karnataka,SG,0.01,Final
+2023-04-01,2023,4,2023-24,South India,Kerala,Kerala,BG,4.47,Final
+2023-04-01,2023,4,2023-24,South India,Kerala,Kerala,SG,1.07,Final
+2023-04-01,2023,4,2023-24,North India,Others (North),Others (NE & HP etc.),BG,0.71,Final
+2023-04-01,2023,4,2023-24,North India,Others (North),Others (NE & HP etc.),SG,1.26,Final
+2023-04-01,2023,4,2023-24,South India,Tamil Nadu,Tamil Nadu,BG,5.71,Final
+2023-04-01,2023,4,2023-24,South India,Tamil Nadu,Tamil Nadu,SG,7.04,Final
+2023-04-01,2023,4,2023-24,North India,West Bengal,Terai,BG,1.46,Final
+2023-04-01,2023,4,2023-24,North India,West Bengal,Terai,SG,7.47,Final
+2023-05-01,2023,5,2023-24,North India,Assam,Assam Valley,BG,29.24,Final
+2023-05-01,2023,5,2023-24,North India,Assam,Assam Valley,SG,35.48,Final
+2023-05-01,2023,5,2023-24,North India,Assam,Cachar,BG,2.9,Final
+2023-05-01,2023,5,2023-24,North India,Assam,Cachar,SG,0.1,Final
+2023-05-01,2023,5,2023-24,North India,West Bengal,Darjeeling,BG,0.41,Final
+2023-05-01,2023,5,2023-24,North India,West Bengal,Darjeeling,SG,0.01,Final
+2023-05-01,2023,5,2023-24,North India,West Bengal,Dooars,BG,9.63,Final
+2023-05-01,2023,5,2023-24,North India,West Bengal,Dooars,SG,9.82,Final
+2023-05-01,2023,5,2023-24,South India,Karnataka,Karnataka,BG,0.42,Final
+2023-05-01,2023,5,2023-24,South India,Karnataka,Karnataka,SG,0.02,Final
+2023-05-01,2023,5,2023-24,South India,Kerala,Kerala,BG,5.89,Final
+2023-05-01,2023,5,2023-24,South India,Kerala,Kerala,SG,1.07,Final
+2023-05-01,2023,5,2023-24,North India,Others (North),Others (NE & HP etc.),BG,0.93,Final
+2023-05-01,2023,5,2023-24,North India,Others (North),Others (NE & HP etc.),SG,2.16,Final
+2023-05-01,2023,5,2023-24,South India,Tamil Nadu,Tamil Nadu,BG,7.18,Final
+2023-05-01,2023,5,2023-24,South India,Tamil Nadu,Tamil Nadu,SG,11.08,Final
+2023-05-01,2023,5,2023-24,North India,West Bengal,Terai,BG,2.79,Final
+2023-05-01,2023,5,2023-24,North India,West Bengal,Terai,SG,11.43,Final
+2023-06-01,2023,6,2023-24,North India,Assam,Assam Valley,BG,30.59,Final
+2023-06-01,2023,6,2023-24,North India,Assam,Assam Valley,SG,32.11,Final
+2023-06-01,2023,6,2023-24,North India,Assam,Cachar,BG,3.62,Final
+2023-06-01,2023,6,2023-24,North India,Assam,Cachar,SG,0.19,Final
+2023-06-01,2023,6,2023-24,North India,West Bengal,Darjeeling,BG,0.52,Final
+2023-06-01,2023,6,2023-24,North India,West Bengal,Darjeeling,SG,0.01,Final
+2023-06-01,2023,6,2023-24,North India,West Bengal,Dooars,BG,12.87,Final
+2023-06-01,2023,6,2023-24,North India,West Bengal,Dooars,SG,14.08,Final
+2023-06-01,2023,6,2023-24,South India,Karnataka,Karnataka,BG,1.15,Final
+2023-06-01,2023,6,2023-24,South India,Karnataka,Karnataka,SG,0.03,Final
+2023-06-01,2023,6,2023-24,South India,Kerala,Kerala,BG,5.72,Final
+2023-06-01,2023,6,2023-24,South India,Kerala,Kerala,SG,1.31,Final
+2023-06-01,2023,6,2023-24,North India,Others (North),Others (NE & HP etc.),BG,1.2,Final
+2023-06-01,2023,6,2023-24,North India,Others (North),Others (NE & HP etc.),SG,2.42,Final
+2023-06-01,2023,6,2023-24,South India,Tamil Nadu,Tamil Nadu,BG,6.73,Final
+2023-06-01,2023,6,2023-24,South India,Tamil Nadu,Tamil Nadu,SG,13.44,Final
+2023-06-01,2023,6,2023-24,North India,West Bengal,Terai,BG,3.61,Final
+2023-06-01,2023,6,2023-24,North India,West Bengal,Terai,SG,15.56,Final
+2023-07-01,2023,7,2023-24,North India,Assam,Assam Valley,BG,45.8,Final
+2023-07-01,2023,7,2023-24,North India,Assam,Assam Valley,SG,41.61,Final
+2023-07-01,2023,7,2023-24,North India,Assam,Cachar,BG,5.06,Final
+2023-07-01,2023,7,2023-24,North India,Assam,Cachar,SG,0.23,Final
+2023-07-01,2023,7,2023-24,North India,West Bengal,Darjeeling,BG,0.99,Final
+2023-07-01,2023,7,2023-24,North India,West Bengal,Darjeeling,SG,0.02,Final
+2023-07-01,2023,7,2023-24,North India,West Bengal,Dooars,BG,15.8,Final
+2023-07-01,2023,7,2023-24,North India,West Bengal,Dooars,SG,14.0,Final
+2023-07-01,2023,7,2023-24,South India,Karnataka,Karnataka,BG,0.31,Final
+2023-07-01,2023,7,2023-24,South India,Karnataka,Karnataka,SG,0.01,Final
+2023-07-01,2023,7,2023-24,South India,Kerala,Kerala,BG,4.2,Final
+2023-07-01,2023,7,2023-24,South India,Kerala,Kerala,SG,0.78,Final
+2023-07-01,2023,7,2023-24,North India,Others (North),Others (NE & HP etc.),BG,1.65,Final
+2023-07-01,2023,7,2023-24,North India,Others (North),Others (NE & HP etc.),SG,3.04,Final
+2023-07-01,2023,7,2023-24,South India,Tamil Nadu,Tamil Nadu,BG,4.97,Final
+2023-07-01,2023,7,2023-24,South India,Tamil Nadu,Tamil Nadu,SG,10.92,Final
+2023-07-01,2023,7,2023-24,North India,West Bengal,Terai,BG,5.46,Final
+2023-07-01,2023,7,2023-24,North India,West Bengal,Terai,SG,16.68,Final
+2023-08-01,2023,8,2023-24,North India,Assam,Assam Valley,BG,49.54,Final
+2023-08-01,2023,8,2023-24,North India,Assam,Assam Valley,SG,46.77,Final
+2023-08-01,2023,8,2023-24,North India,Assam,Cachar,BG,5.6,Final
+2023-08-01,2023,8,2023-24,North India,Assam,Cachar,SG,0.17,Final
+2023-08-01,2023,8,2023-24,North India,West Bengal,Darjeeling,BG,0.97,Final
+2023-08-01,2023,8,2023-24,North India,West Bengal,Darjeeling,SG,0.01,Final
+2023-08-01,2023,8,2023-24,North India,West Bengal,Dooars,BG,15.71,Final
+2023-08-01,2023,8,2023-24,North India,West Bengal,Dooars,SG,14.88,Final
+2023-08-01,2023,8,2023-24,South India,Karnataka,Karnataka,BG,0.36,Final
+2023-08-01,2023,8,2023-24,South India,Karnataka,Karnataka,SG,0.03,Final
+2023-08-01,2023,8,2023-24,South India,Kerala,Kerala,BG,3.73,Final
+2023-08-01,2023,8,2023-24,South India,Kerala,Kerala,SG,0.85,Final
+2023-08-01,2023,8,2023-24,North India,Others (North),Others (NE & HP etc.),BG,1.71,Final
+2023-08-01,2023,8,2023-24,North India,Others (North),Others (NE & HP etc.),SG,3.05,Final
+2023-08-01,2023,8,2023-24,South India,Tamil Nadu,Tamil Nadu,BG,4.82,Final
+2023-08-01,2023,8,2023-24,South India,Tamil Nadu,Tamil Nadu,SG,9.49,Final
+2023-08-01,2023,8,2023-24,North India,West Bengal,Terai,BG,5.38,Final
+2023-08-01,2023,8,2023-24,North India,West Bengal,Terai,SG,20.76,Final
+2023-09-01,2023,9,2023-24,North India,Assam,Assam Valley,BG,45.19,Final
+2023-09-01,2023,9,2023-24,North India,Assam,Assam Valley,SG,39.91,Final
+2023-09-01,2023,9,2023-24,North India,Assam,Cachar,BG,4.96,Final
+2023-09-01,2023,9,2023-24,North India,Assam,Cachar,SG,0.2,Final
+2023-09-01,2023,9,2023-24,North India,West Bengal,Darjeeling,BG,0.79,Final
+2023-09-01,2023,9,2023-24,North India,West Bengal,Darjeeling,SG,0.02,Final
+2023-09-01,2023,9,2023-24,North India,West Bengal,Dooars,BG,14.22,Final
+2023-09-01,2023,9,2023-24,North India,West Bengal,Dooars,SG,13.4,Final
+2023-09-01,2023,9,2023-24,South India,Karnataka,Karnataka,BG,0.57,Final
+2023-09-01,2023,9,2023-24,South India,Karnataka,Karnataka,SG,0.03,Final
+2023-09-01,2023,9,2023-24,South India,Kerala,Kerala,BG,5.45,Final
+2023-09-01,2023,9,2023-24,South India,Kerala,Kerala,SG,1.07,Final
+2023-09-01,2023,9,2023-24,North India,Others (North),Others (NE & HP etc.),BG,1.27,Final
+2023-09-01,2023,9,2023-24,North India,Others (North),Others (NE & HP etc.),SG,3.07,Final
+2023-09-01,2023,9,2023-24,South India,Tamil Nadu,Tamil Nadu,BG,5.98,Final
+2023-09-01,2023,9,2023-24,South India,Tamil Nadu,Tamil Nadu,SG,11.24,Final
+2023-09-01,2023,9,2023-24,North India,West Bengal,Terai,BG,4.83,Final
+2023-09-01,2023,9,2023-24,North India,West Bengal,Terai,SG,15.56,Final
+2023-10-01,2023,10,2023-24,North India,Assam,Assam Valley,BG,52.93,Final
+2023-10-01,2023,10,2023-24,North India,Assam,Assam Valley,SG,47.34,Final
+2023-10-01,2023,10,2023-24,North India,Assam,Cachar,BG,6.09,Final
+2023-10-01,2023,10,2023-24,North India,Assam,Cachar,SG,0.18,Final
+2023-10-01,2023,10,2023-24,North India,West Bengal,Darjeeling,BG,0.57,Final
+2023-10-01,2023,10,2023-24,North India,West Bengal,Darjeeling,SG,0.01,Final
+2023-10-01,2023,10,2023-24,North India,West Bengal,Dooars,BG,16.06,Final
+2023-10-01,2023,10,2023-24,North India,West Bengal,Dooars,SG,15.82,Final
+2023-10-01,2023,10,2023-24,South India,Karnataka,Karnataka,BG,0.27,Final
+2023-10-01,2023,10,2023-24,South India,Karnataka,Karnataka,SG,0.02,Final
+2023-10-01,2023,10,2023-24,South India,Kerala,Kerala,BG,3.11,Final
+2023-10-01,2023,10,2023-24,South India,Kerala,Kerala,SG,0.62,Final
+2023-10-01,2023,10,2023-24,North India,Others (North),Others (NE & HP etc.),BG,1.48,Final
+2023-10-01,2023,10,2023-24,North India,Others (North),Others (NE & HP etc.),SG,3.55,Final
+2023-10-01,2023,10,2023-24,South India,Tamil Nadu,Tamil Nadu,BG,4.53,Final
+2023-10-01,2023,10,2023-24,South India,Tamil Nadu,Tamil Nadu,SG,10.46,Final
+2023-10-01,2023,10,2023-24,North India,West Bengal,Terai,BG,5.19,Final
+2023-10-01,2023,10,2023-24,North India,West Bengal,Terai,SG,20.03,Final
+2023-11-01,2023,11,2023-24,North India,Assam,Assam Valley,BG,30.29,Final
+2023-11-01,2023,11,2023-24,North India,Assam,Assam Valley,SG,30.9,Final
+2023-11-01,2023,11,2023-24,North India,Assam,Cachar,BG,4.01,Final
+2023-11-01,2023,11,2023-24,North India,Assam,Cachar,SG,0.12,Final
+2023-11-01,2023,11,2023-24,North India,West Bengal,Darjeeling,BG,0.37,Final
+2023-11-01,2023,11,2023-24,North India,West Bengal,Darjeeling,SG,0.0,Final
+2023-11-01,2023,11,2023-24,North India,West Bengal,Dooars,BG,11.19,Final
+2023-11-01,2023,11,2023-24,North India,West Bengal,Dooars,SG,12.16,Final
+2023-11-01,2023,11,2023-24,South India,Karnataka,Karnataka,BG,0.58,Final
+2023-11-01,2023,11,2023-24,South India,Karnataka,Karnataka,SG,0.03,Final
+2023-11-01,2023,11,2023-24,South India,Kerala,Kerala,BG,5.26,Final
+2023-11-01,2023,11,2023-24,South India,Kerala,Kerala,SG,1.14,Final
+2023-11-01,2023,11,2023-24,North India,Others (North),Others (NE & HP etc.),BG,1.16,Final
+2023-11-01,2023,11,2023-24,North India,Others (North),Others (NE & HP etc.),SG,2.23,Final
+2023-11-01,2023,11,2023-24,South India,Tamil Nadu,Tamil Nadu,BG,4.94,Final
+2023-11-01,2023,11,2023-24,South India,Tamil Nadu,Tamil Nadu,SG,9.43,Final
+2023-11-01,2023,11,2023-24,North India,West Bengal,Terai,BG,3.86,Final
+2023-11-01,2023,11,2023-24,North India,West Bengal,Terai,SG,13.1,Final
+2023-12-01,2023,12,2023-24,North India,Assam,Assam Valley,BG,10.26,Final
+2023-12-01,2023,12,2023-24,North India,Assam,Assam Valley,SG,12.1,Final
+2023-12-01,2023,12,2023-24,North India,Assam,Cachar,BG,2.34,Final
+2023-12-01,2023,12,2023-24,North India,Assam,Cachar,SG,0.04,Final
+2023-12-01,2023,12,2023-24,North India,West Bengal,Darjeeling,BG,0.09,Final
+2023-12-01,2023,12,2023-24,North India,West Bengal,Darjeeling,SG,0.0,Final
+2023-12-01,2023,12,2023-24,North India,West Bengal,Dooars,BG,5.37,Final
+2023-12-01,2023,12,2023-24,North India,West Bengal,Dooars,SG,11.32,Final
+2023-12-01,2023,12,2023-24,South India,Karnataka,Karnataka,BG,0.36,Final
+2023-12-01,2023,12,2023-24,South India,Karnataka,Karnataka,SG,0.02,Final
+2023-12-01,2023,12,2023-24,South India,Kerala,Kerala,BG,4.22,Final
+2023-12-01,2023,12,2023-24,South India,Kerala,Kerala,SG,0.74,Final
+2023-12-01,2023,12,2023-24,North India,Others (North),Others (NE & HP etc.),BG,0.61,Final
+2023-12-01,2023,12,2023-24,North India,Others (North),Others (NE & HP etc.),SG,1.82,Final
+2023-12-01,2023,12,2023-24,South India,Tamil Nadu,Tamil Nadu,BG,4.03,Final
+2023-12-01,2023,12,2023-24,South India,Tamil Nadu,Tamil Nadu,SG,8.75,Final
+2023-12-01,2023,12,2023-24,North India,West Bengal,Terai,BG,2.23,Final
+2023-12-01,2023,12,2023-24,North India,West Bengal,Terai,SG,20.09,Final
+2024-01-01,2024,1,2023-24,North India,Assam,Assam Valley,BG,0.08,Final
+2024-01-01,2024,1,2023-24,North India,Assam,Assam Valley,SG,0.08,Final
+2024-01-01,2024,1,2023-24,North India,Assam,Cachar,BG,0.0,Final
+2024-01-01,2024,1,2023-24,North India,Assam,Cachar,SG,0.0,Final
+2024-01-01,2024,1,2023-24,North India,West Bengal,Darjeeling,BG,0.0,Final
+2024-01-01,2024,1,2023-24,North India,West Bengal,Darjeeling,SG,0.0,Final
+2024-01-01,2024,1,2023-24,North India,West Bengal,Dooars,BG,0.05,Final
+2024-01-01,2024,1,2023-24,North India,West Bengal,Dooars,SG,0.03,Final
+2024-01-01,2024,1,2023-24,South India,Karnataka,Karnataka,BG,0.34,Final
+2024-01-01,2024,1,2023-24,South India,Karnataka,Karnataka,SG,0.03,Final
+2024-01-01,2024,1,2023-24,South India,Kerala,Kerala,BG,4.47,Final
+2024-01-01,2024,1,2023-24,South India,Kerala,Kerala,SG,0.82,Final
+2024-01-01,2024,1,2023-24,North India,Others (North),Others (NE & HP etc.),BG,0.0,Final
+2024-01-01,2024,1,2023-24,North India,Others (North),Others (NE & HP etc.),SG,0.0,Final
+2024-01-01,2024,1,2023-24,South India,Tamil Nadu,Tamil Nadu,BG,3.91,Final
+2024-01-01,2024,1,2023-24,South India,Tamil Nadu,Tamil Nadu,SG,7.46,Final
+2024-01-01,2024,1,2023-24,North India,West Bengal,Terai,BG,0.01,Final
+2024-01-01,2024,1,2023-24,North India,West Bengal,Terai,SG,0.12,Final
+2024-02-01,2024,2,2023-24,North India,Assam,Assam Valley,BG,0.13,Final
+2024-02-01,2024,2,2023-24,North India,Assam,Assam Valley,SG,0.08,Final
+2024-02-01,2024,2,2023-24,North India,Assam,Cachar,BG,0.08,Final
+2024-02-01,2024,2,2023-24,North India,Assam,Cachar,SG,0.01,Final
+2024-02-01,2024,2,2023-24,North India,West Bengal,Darjeeling,BG,0.0,Final
+2024-02-01,2024,2,2023-24,North India,West Bengal,Darjeeling,SG,0.0,Final
+2024-02-01,2024,2,2023-24,North India,West Bengal,Dooars,BG,0.33,Final
+2024-02-01,2024,2,2023-24,North India,West Bengal,Dooars,SG,0.75,Final
+2024-02-01,2024,2,2023-24,South India,Karnataka,Karnataka,BG,0.28,Final
+2024-02-01,2024,2,2023-24,South India,Karnataka,Karnataka,SG,0.02,Final
+2024-02-01,2024,2,2023-24,South India,Kerala,Kerala,BG,3.87,Final
+2024-02-01,2024,2,2023-24,South India,Kerala,Kerala,SG,0.68,Final
+2024-02-01,2024,2,2023-24,North India,Others (North),Others (NE & HP etc.),BG,0.01,Final
+2024-02-01,2024,2,2023-24,North India,Others (North),Others (NE & HP etc.),SG,0.02,Final
+2024-02-01,2024,2,2023-24,South India,Tamil Nadu,Tamil Nadu,BG,4.18,Final
+2024-02-01,2024,2,2023-24,South India,Tamil Nadu,Tamil Nadu,SG,6.04,Final
+2024-02-01,2024,2,2023-24,North India,West Bengal,Terai,BG,0.06,Final
+2024-02-01,2024,2,2023-24,North India,West Bengal,Terai,SG,0.44,Final
+2024-03-01,2024,3,2023-24,North India,Assam,Assam Valley,BG,7.42,Final
+2024-03-01,2024,3,2023-24,North India,Assam,Assam Valley,SG,12.68,Final
+2024-03-01,2024,3,2023-24,North India,Assam,Cachar,BG,1.33,Final
+2024-03-01,2024,3,2023-24,North India,Assam,Cachar,SG,0.02,Final
+2024-03-01,2024,3,2023-24,North India,West Bengal,Darjeeling,BG,0.08,Final
+2024-03-01,2024,3,2023-24,North India,West Bengal,Darjeeling,SG,0.0,Final
+2024-03-01,2024,3,2023-24,North India,West Bengal,Dooars,BG,5.16,Final
+2024-03-01,2024,3,2023-24,North India,West Bengal,Dooars,SG,7.39,Final
+2024-03-01,2024,3,2023-24,South India,Karnataka,Karnataka,BG,0.35,Final
+2024-03-01,2024,3,2023-24,South India,Karnataka,Karnataka,SG,0.03,Final
+2024-03-01,2024,3,2023-24,South India,Kerala,Kerala,BG,3.76,Final
+2024-03-01,2024,3,2023-24,South India,Kerala,Kerala,SG,0.79,Final
+2024-03-01,2024,3,2023-24,North India,Others (North),Others (NE & HP etc.),BG,0.32,Final
+2024-03-01,2024,3,2023-24,North India,Others (North),Others (NE & HP etc.),SG,1.01,Final
+2024-03-01,2024,3,2023-24,South India,Tamil Nadu,Tamil Nadu,BG,4.61,Final
+2024-03-01,2024,3,2023-24,South India,Tamil Nadu,Tamil Nadu,SG,7.34,Final
+2024-03-01,2024,3,2023-24,North India,West Bengal,Terai,BG,1.71,Final
+2024-03-01,2024,3,2023-24,North India,West Bengal,Terai,SG,9.78,Final
+2024-04-01,2024,4,2024-25,North India,Assam,Assam Valley,BG,20.26,Provisional
+2024-04-01,2024,4,2024-25,North India,Assam,Assam Valley,SG,20.64,Provisional
+2024-04-01,2024,4,2024-25,North India,Assam,Cachar,BG,2.17,Provisional
+2024-04-01,2024,4,2024-25,North India,Assam,Cachar,SG,0.1,Provisional
+2024-04-01,2024,4,2024-25,North India,West Bengal,Darjeeling,BG,0.88,Provisional
+2024-04-01,2024,4,2024-25,North India,West Bengal,Darjeeling,SG,0.02,Provisional
+2024-04-01,2024,4,2024-25,North India,West Bengal,Dooars,BG,7.89,Provisional
+2024-04-01,2024,4,2024-25,North India,West Bengal,Dooars,SG,4.66,Provisional
+2024-04-01,2024,4,2024-25,South India,Karnataka,Karnataka,BG,0.25,Provisional
+2024-04-01,2024,4,2024-25,South India,Karnataka,Karnataka,SG,0.02,Provisional
+2024-04-01,2024,4,2024-25,South India,Kerala,Kerala,BG,2.24,Provisional
+2024-04-01,2024,4,2024-25,South India,Kerala,Kerala,SG,0.44,Provisional
+2024-04-01,2024,4,2024-25,North India,Others (North),Others (NE & HP etc.),BG,1.01,Provisional
+2024-04-01,2024,4,2024-25,North India,Others (North),Others (NE & HP etc.),SG,1.38,Provisional
+2024-04-01,2024,4,2024-25,South India,Tamil Nadu,Tamil Nadu,BG,3.22,Provisional
+2024-04-01,2024,4,2024-25,South India,Tamil Nadu,Tamil Nadu,SG,6.11,Provisional
+2024-04-01,2024,4,2024-25,North India,West Bengal,Terai,BG,1.81,Provisional
+2024-04-01,2024,4,2024-25,North India,West Bengal,Terai,SG,2.94,Provisional
+2024-05-01,2024,5,2024-25,North India,Assam,Assam Valley,BG,20.54,Provisional
+2024-05-01,2024,5,2024-25,North India,Assam,Assam Valley,SG,26.41,Provisional
+2024-05-01,2024,5,2024-25,North India,Assam,Cachar,BG,3.51,Provisional
+2024-05-01,2024,5,2024-25,North India,Assam,Cachar,SG,0.11,Provisional
+2024-05-01,2024,5,2024-25,North India,West Bengal,Darjeeling,BG,0.49,Provisional
+2024-05-01,2024,5,2024-25,North India,West Bengal,Darjeeling,SG,0.0,Provisional
+2024-05-01,2024,5,2024-25,North India,West Bengal,Dooars,BG,5.77,Provisional
+2024-05-01,2024,5,2024-25,North India,West Bengal,Dooars,SG,7.45,Provisional
+2024-05-01,2024,5,2024-25,South India,Karnataka,Karnataka,BG,0.45,Provisional
+2024-05-01,2024,5,2024-25,South India,Karnataka,Karnataka,SG,0.03,Provisional
+2024-05-01,2024,5,2024-25,South India,Kerala,Kerala,BG,2.92,Provisional
+2024-05-01,2024,5,2024-25,South India,Kerala,Kerala,SG,0.64,Provisional
+2024-05-01,2024,5,2024-25,North India,Others (North),Others (NE & HP etc.),BG,1.01,Provisional
+2024-05-01,2024,5,2024-25,North India,Others (North),Others (NE & HP etc.),SG,1.64,Provisional
+2024-05-01,2024,5,2024-25,South India,Tamil Nadu,Tamil Nadu,BG,4.48,Provisional
+2024-05-01,2024,5,2024-25,South India,Tamil Nadu,Tamil Nadu,SG,5.4,Provisional
+2024-05-01,2024,5,2024-25,North India,West Bengal,Terai,BG,1.44,Provisional
+2024-05-01,2024,5,2024-25,North India,West Bengal,Terai,SG,10.87,Provisional
+2024-06-01,2024,6,2024-25,North India,Assam,Assam Valley,BG,35.62,Provisional
+2024-06-01,2024,6,2024-25,North India,Assam,Assam Valley,SG,36.43,Provisional
+2024-06-01,2024,6,2024-25,North India,Assam,Cachar,BG,3.77,Provisional
+2024-06-01,2024,6,2024-25,North India,Assam,Cachar,SG,0.09,Provisional
+2024-06-01,2024,6,2024-25,North India,West Bengal,Darjeeling,BG,0.5,Provisional
+2024-06-01,2024,6,2024-25,North India,West Bengal,Darjeeling,SG,0.01,Provisional
+2024-06-01,2024,6,2024-25,North India,West Bengal,Dooars,BG,11.22,Provisional
+2024-06-01,2024,6,2024-25,North India,West Bengal,Dooars,SG,12.2,Provisional
+2024-06-01,2024,6,2024-25,South India,Karnataka,Karnataka,BG,0.51,Provisional
+2024-06-01,2024,6,2024-25,South India,Karnataka,Karnataka,SG,0.02,Provisional
+2024-06-01,2024,6,2024-25,South India,Kerala,Kerala,BG,5.47,Provisional
+2024-06-01,2024,6,2024-25,South India,Kerala,Kerala,SG,1.18,Provisional
+2024-06-01,2024,6,2024-25,North India,Others (North),Others (NE & HP etc.),BG,1.54,Provisional
+2024-06-01,2024,6,2024-25,North India,Others (North),Others (NE & HP etc.),SG,2.65,Provisional
+2024-06-01,2024,6,2024-25,South India,Tamil Nadu,Tamil Nadu,BG,6.51,Provisional
+2024-06-01,2024,6,2024-25,South India,Tamil Nadu,Tamil Nadu,SG,11.51,Provisional
+2024-06-01,2024,6,2024-25,North India,West Bengal,Terai,BG,3.42,Provisional
+2024-06-01,2024,6,2024-25,North India,West Bengal,Terai,SG,14.07,Provisional
+2024-07-01,2024,7,2024-25,North India,Assam,Assam Valley,BG,38.33,Provisional
+2024-07-01,2024,7,2024-25,North India,Assam,Assam Valley,SG,36.34,Provisional
+2024-07-01,2024,7,2024-25,North India,Assam,Cachar,BG,4.73,Provisional
+2024-07-01,2024,7,2024-25,North India,Assam,Cachar,SG,0.15,Provisional
+2024-07-01,2024,7,2024-25,North India,West Bengal,Darjeeling,BG,0.88,Provisional
+2024-07-01,2024,7,2024-25,North India,West Bengal,Darjeeling,SG,0.02,Provisional
+2024-07-01,2024,7,2024-25,North India,West Bengal,Dooars,BG,11.68,Provisional
+2024-07-01,2024,7,2024-25,North India,West Bengal,Dooars,SG,12.32,Provisional
+2024-07-01,2024,7,2024-25,South India,Karnataka,Karnataka,BG,0.24,Provisional
+2024-07-01,2024,7,2024-25,South India,Karnataka,Karnataka,SG,0.02,Provisional
+2024-07-01,2024,7,2024-25,South India,Kerala,Kerala,BG,3.52,Provisional
+2024-07-01,2024,7,2024-25,South India,Kerala,Kerala,SG,0.74,Provisional
+2024-07-01,2024,7,2024-25,North India,Others (North),Others (NE & HP etc.),BG,1.52,Provisional
+2024-07-01,2024,7,2024-25,North India,Others (North),Others (NE & HP etc.),SG,2.91,Provisional
+2024-07-01,2024,7,2024-25,South India,Tamil Nadu,Tamil Nadu,BG,5.0,Provisional
+2024-07-01,2024,7,2024-25,South India,Tamil Nadu,Tamil Nadu,SG,13.27,Provisional
+2024-07-01,2024,7,2024-25,North India,West Bengal,Terai,BG,3.8,Provisional
+2024-07-01,2024,7,2024-25,North India,West Bengal,Terai,SG,14.89,Provisional
+2024-08-01,2024,8,2024-25,North India,Assam,Assam Valley,BG,50.73,Provisional
+2024-08-01,2024,8,2024-25,North India,Assam,Assam Valley,SG,46.66,Provisional
+2024-08-01,2024,8,2024-25,North India,Assam,Cachar,BG,6.78,Provisional
+2024-08-01,2024,8,2024-25,North India,Assam,Cachar,SG,0.29,Provisional
+2024-08-01,2024,8,2024-25,North India,West Bengal,Darjeeling,BG,1.16,Provisional
+2024-08-01,2024,8,2024-25,North India,West Bengal,Darjeeling,SG,0.02,Provisional
+2024-08-01,2024,8,2024-25,North India,West Bengal,Dooars,BG,13.78,Provisional
+2024-08-01,2024,8,2024-25,North India,West Bengal,Dooars,SG,18.62,Provisional
+2024-08-01,2024,8,2024-25,South India,Karnataka,Karnataka,BG,0.23,Provisional
+2024-08-01,2024,8,2024-25,South India,Karnataka,Karnataka,SG,0.02,Provisional
+2024-08-01,2024,8,2024-25,South India,Kerala,Kerala,BG,3.43,Provisional
+2024-08-01,2024,8,2024-25,South India,Kerala,Kerala,SG,0.84,Provisional
+2024-08-01,2024,8,2024-25,North India,Others (North),Others (NE & HP etc.),BG,1.92,Provisional
+2024-08-01,2024,8,2024-25,North India,Others (North),Others (NE & HP etc.),SG,3.69,Provisional
+2024-08-01,2024,8,2024-25,South India,Tamil Nadu,Tamil Nadu,BG,3.68,Provisional
+2024-08-01,2024,8,2024-25,South India,Tamil Nadu,Tamil Nadu,SG,10.1,Provisional
+2024-08-01,2024,8,2024-25,North India,West Bengal,Terai,BG,4.62,Provisional
+2024-08-01,2024,8,2024-25,North India,West Bengal,Terai,SG,17.88,Provisional
+2024-09-01,2024,9,2024-25,North India,Assam,Assam Valley,BG,43.98,Provisional
+2024-09-01,2024,9,2024-25,North India,Assam,Assam Valley,SG,41.05,Provisional
+2024-09-01,2024,9,2024-25,North India,Assam,Cachar,BG,4.76,Provisional
+2024-09-01,2024,9,2024-25,North India,Assam,Cachar,SG,0.19,Provisional
+2024-09-01,2024,9,2024-25,North India,West Bengal,Darjeeling,BG,0.71,Provisional
+2024-09-01,2024,9,2024-25,North India,West Bengal,Darjeeling,SG,0.01,Provisional
+2024-09-01,2024,9,2024-25,North India,West Bengal,Dooars,BG,13.84,Provisional
+2024-09-01,2024,9,2024-25,North India,West Bengal,Dooars,SG,13.44,Provisional
+2024-09-01,2024,9,2024-25,South India,Karnataka,Karnataka,BG,0.38,Provisional
+2024-09-01,2024,9,2024-25,South India,Karnataka,Karnataka,SG,0.02,Provisional
+2024-09-01,2024,9,2024-25,South India,Kerala,Kerala,BG,5.07,Provisional
+2024-09-01,2024,9,2024-25,South India,Kerala,Kerala,SG,0.92,Provisional
+2024-09-01,2024,9,2024-25,North India,Others (North),Others (NE & HP etc.),BG,1.37,Provisional
+2024-09-01,2024,9,2024-25,North India,Others (North),Others (NE & HP etc.),SG,2.87,Provisional
+2024-09-01,2024,9,2024-25,South India,Tamil Nadu,Tamil Nadu,BG,5.28,Provisional
+2024-09-01,2024,9,2024-25,South India,Tamil Nadu,Tamil Nadu,SG,11.31,Provisional
+2024-09-01,2024,9,2024-25,North India,West Bengal,Terai,BG,3.74,Provisional
+2024-09-01,2024,9,2024-25,North India,West Bengal,Terai,SG,15.68,Provisional
+2024-10-01,2024,10,2024-25,North India,Assam,Assam Valley,BG,53.09,Provisional
+2024-10-01,2024,10,2024-25,North India,Assam,Assam Valley,SG,52.07,Provisional
+2024-10-01,2024,10,2024-25,North India,Assam,Cachar,BG,6.08,Provisional
+2024-10-01,2024,10,2024-25,North India,Assam,Cachar,SG,0.28,Provisional
+2024-10-01,2024,10,2024-25,North India,West Bengal,Darjeeling,BG,0.48,Provisional
+2024-10-01,2024,10,2024-25,North India,West Bengal,Darjeeling,SG,0.01,Provisional
+2024-10-01,2024,10,2024-25,North India,West Bengal,Dooars,BG,16.84,Provisional
+2024-10-01,2024,10,2024-25,North India,West Bengal,Dooars,SG,16.08,Provisional
+2024-10-01,2024,10,2024-25,South India,Karnataka,Karnataka,BG,0.31,Provisional
+2024-10-01,2024,10,2024-25,South India,Karnataka,Karnataka,SG,0.03,Provisional
+2024-10-01,2024,10,2024-25,South India,Kerala,Kerala,BG,4.59,Provisional
+2024-10-01,2024,10,2024-25,South India,Kerala,Kerala,SG,1.08,Provisional
+2024-10-01,2024,10,2024-25,North India,Others (North),Others (NE & HP etc.),BG,2.01,Provisional
+2024-10-01,2024,10,2024-25,North India,Others (North),Others (NE & HP etc.),SG,3.48,Provisional
+2024-10-01,2024,10,2024-25,South India,Tamil Nadu,Tamil Nadu,BG,5.51,Provisional
+2024-10-01,2024,10,2024-25,South India,Tamil Nadu,Tamil Nadu,SG,12.7,Provisional
+2024-10-01,2024,10,2024-25,North India,West Bengal,Terai,BG,5.15,Provisional
+2024-10-01,2024,10,2024-25,North India,West Bengal,Terai,SG,18.81,Provisional
+2024-11-01,2024,11,2024-25,North India,Assam,Assam Valley,BG,27.53,Provisional
+2024-11-01,2024,11,2024-25,North India,Assam,Assam Valley,SG,34.32,Provisional
+2024-11-01,2024,11,2024-25,North India,Assam,Cachar,BG,4.37,Provisional
+2024-11-01,2024,11,2024-25,North India,Assam,Cachar,SG,0.22,Provisional
+2024-11-01,2024,11,2024-25,North India,West Bengal,Darjeeling,BG,0.32,Provisional
+2024-11-01,2024,11,2024-25,North India,West Bengal,Darjeeling,SG,0.0,Provisional
+2024-11-01,2024,11,2024-25,North India,West Bengal,Dooars,BG,11.58,Provisional
+2024-11-01,2024,11,2024-25,North India,West Bengal,Dooars,SG,16.21,Provisional
+2024-11-01,2024,11,2024-25,South India,Karnataka,Karnataka,BG,0.49,Provisional
+2024-11-01,2024,11,2024-25,South India,Karnataka,Karnataka,SG,0.03,Provisional
+2024-11-01,2024,11,2024-25,South India,Kerala,Kerala,BG,4.76,Provisional
+2024-11-01,2024,11,2024-25,South India,Kerala,Kerala,SG,1.04,Provisional
+2024-11-01,2024,11,2024-25,North India,Others (North),Others (NE & HP etc.),BG,1.18,Provisional
+2024-11-01,2024,11,2024-25,North India,Others (North),Others (NE & HP etc.),SG,2.77,Provisional
+2024-11-01,2024,11,2024-25,South India,Tamil Nadu,Tamil Nadu,BG,4.59,Provisional
+2024-11-01,2024,11,2024-25,South India,Tamil Nadu,Tamil Nadu,SG,8.92,Provisional
+2024-11-01,2024,11,2024-25,North India,West Bengal,Terai,BG,3.42,Provisional
+2024-11-01,2024,11,2024-25,North India,West Bengal,Terai,SG,21.53,Provisional
+2024-12-01,2024,12,2024-25,North India,Assam,Assam Valley,BG,3.03,Provisional
+2024-12-01,2024,12,2024-25,North India,Assam,Assam Valley,SG,3.02,Provisional
+2024-12-01,2024,12,2024-25,North India,Assam,Cachar,BG,0.25,Provisional
+2024-12-01,2024,12,2024-25,North India,Assam,Cachar,SG,0.03,Provisional
+2024-12-01,2024,12,2024-25,North India,West Bengal,Darjeeling,BG,0.01,Provisional
+2024-12-01,2024,12,2024-25,North India,West Bengal,Darjeeling,SG,0.0,Provisional
+2024-12-01,2024,12,2024-25,North India,West Bengal,Dooars,BG,0.51,Provisional
+2024-12-01,2024,12,2024-25,North India,West Bengal,Dooars,SG,1.63,Provisional
+2024-12-01,2024,12,2024-25,South India,Karnataka,Karnataka,BG,0.37,Provisional
+2024-12-01,2024,12,2024-25,South India,Karnataka,Karnataka,SG,0.03,Provisional
+2024-12-01,2024,12,2024-25,South India,Kerala,Kerala,BG,4.14,Provisional
+2024-12-01,2024,12,2024-25,South India,Kerala,Kerala,SG,0.97,Provisional
+2024-12-01,2024,12,2024-25,North India,Others (North),Others (NE & HP etc.),BG,0.08,Provisional
+2024-12-01,2024,12,2024-25,North India,Others (North),Others (NE & HP etc.),SG,0.27,Provisional
+2024-12-01,2024,12,2024-25,South India,Tamil Nadu,Tamil Nadu,BG,4.19,Provisional
+2024-12-01,2024,12,2024-25,South India,Tamil Nadu,Tamil Nadu,SG,8.6,Provisional
+2024-12-01,2024,12,2024-25,North India,West Bengal,Terai,BG,0.29,Provisional
+2024-12-01,2024,12,2024-25,North India,West Bengal,Terai,SG,1.97,Provisional
+2025-01-01,2025,1,2024-25,North India,Assam,Assam Valley,BG,0.02,Final
+2025-01-01,2025,1,2024-25,North India,Assam,Assam Valley,SG,0.01,Final
+2025-01-01,2025,1,2024-25,North India,Assam,Cachar,BG,0.0,Final
+2025-01-01,2025,1,2024-25,North India,Assam,Cachar,SG,0.0,Final
+2025-01-01,2025,1,2024-25,North India,West Bengal,Darjeeling,BG,0.0,Final
+2025-01-01,2025,1,2024-25,North India,West Bengal,Darjeeling,SG,0.0,Final
+2025-01-01,2025,1,2024-25,North India,West Bengal,Dooars,BG,0.02,Final
+2025-01-01,2025,1,2024-25,North India,West Bengal,Dooars,SG,0.0,Final
+2025-01-01,2025,1,2024-25,South India,Karnataka,Karnataka,BG,0.34,Final
+2025-01-01,2025,1,2024-25,South India,Karnataka,Karnataka,SG,0.03,Final
+2025-01-01,2025,1,2024-25,South India,Kerala,Kerala,BG,3.9,Final
+2025-01-01,2025,1,2024-25,South India,Kerala,Kerala,SG,0.97,Final
+2025-01-01,2025,1,2024-25,North India,Others (North),Others (NE & HP etc.),BG,0.01,Final
+2025-01-01,2025,1,2024-25,North India,Others (North),Others (NE & HP etc.),SG,0.0,Final
+2025-01-01,2025,1,2024-25,South India,Tamil Nadu,Tamil Nadu,BG,4.11,Final
+2025-01-01,2025,1,2024-25,South India,Tamil Nadu,Tamil Nadu,SG,7.73,Final
+2025-01-01,2025,1,2024-25,North India,West Bengal,Terai,BG,0.01,Final
+2025-01-01,2025,1,2024-25,North India,West Bengal,Terai,SG,0.0,Final
+2025-02-01,2025,2,2024-25,North India,Assam,Assam Valley,BG,0.54,Final
+2025-02-01,2025,2,2024-25,North India,Assam,Assam Valley,SG,0.55,Final
+2025-02-01,2025,2,2024-25,North India,Assam,Cachar,BG,0.08,Final
+2025-02-01,2025,2,2024-25,North India,Assam,Cachar,SG,0.0,Final
+2025-02-01,2025,2,2024-25,North India,West Bengal,Darjeeling,BG,0.0,Final
+2025-02-01,2025,2,2024-25,North India,West Bengal,Darjeeling,SG,0.0,Final
+2025-02-01,2025,2,2024-25,North India,West Bengal,Dooars,BG,0.9,Final
+2025-02-01,2025,2,2024-25,North India,West Bengal,Dooars,SG,4.57,Final
+2025-02-01,2025,2,2024-25,South India,Karnataka,Karnataka,BG,0.27,Final
+2025-02-01,2025,2,2024-25,South India,Karnataka,Karnataka,SG,0.02,Final
+2025-02-01,2025,2,2024-25,South India,Kerala,Kerala,BG,3.25,Final
+2025-02-01,2025,2,2024-25,South India,Kerala,Kerala,SG,0.77,Final
+2025-02-01,2025,2,2024-25,North India,Others (North),Others (NE & HP etc.),BG,0.03,Final
+2025-02-01,2025,2,2024-25,North India,Others (North),Others (NE & HP etc.),SG,0.2,Final
+2025-02-01,2025,2,2024-25,South India,Tamil Nadu,Tamil Nadu,BG,3.65,Final
+2025-02-01,2025,2,2024-25,South India,Tamil Nadu,Tamil Nadu,SG,6.66,Final
+2025-02-01,2025,2,2024-25,North India,West Bengal,Terai,BG,0.28,Final
+2025-02-01,2025,2,2024-25,North India,West Bengal,Terai,SG,3.63,Final
+2025-03-01,2025,3,2024-25,North India,Assam,Assam Valley,BG,9.24,Final
+2025-03-01,2025,3,2024-25,North India,Assam,Assam Valley,SG,18.51,Final
+2025-03-01,2025,3,2024-25,North India,Assam,Cachar,BG,0.83,Final
+2025-03-01,2025,3,2024-25,North India,Assam,Cachar,SG,0.03,Final
+2025-03-01,2025,3,2024-25,North India,West Bengal,Darjeeling,BG,0.11,Final
+2025-03-01,2025,3,2024-25,North India,West Bengal,Darjeeling,SG,0.01,Final
+2025-03-01,2025,3,2024-25,North India,West Bengal,Dooars,BG,6.44,Final
+2025-03-01,2025,3,2024-25,North India,West Bengal,Dooars,SG,5.35,Final
+2025-03-01,2025,3,2024-25,South India,Karnataka,Karnataka,BG,0.37,Final
+2025-03-01,2025,3,2024-25,South India,Karnataka,Karnataka,SG,0.02,Final
+2025-03-01,2025,3,2024-25,South India,Kerala,Kerala,BG,3.47,Final
+2025-03-01,2025,3,2024-25,South India,Kerala,Kerala,SG,0.85,Final
+2025-03-01,2025,3,2024-25,North India,Others (North),Others (NE & HP etc.),BG,0.24,Final
+2025-03-01,2025,3,2024-25,North India,Others (North),Others (NE & HP etc.),SG,1.42,Final
+2025-03-01,2025,3,2024-25,South India,Tamil Nadu,Tamil Nadu,BG,4.36,Final
+2025-03-01,2025,3,2024-25,South India,Tamil Nadu,Tamil Nadu,SG,6.7,Final
+2025-03-01,2025,3,2024-25,North India,West Bengal,Terai,BG,2.19,Final
+2025-03-01,2025,3,2024-25,North India,West Bengal,Terai,SG,7.71,Final
+2025-04-01,2025,4,2025-26,North India,Assam,Assam Valley,BG,18.86,Final
+2025-04-01,2025,4,2025-26,North India,Assam,Assam Valley,SG,19.77,Final
+2025-04-01,2025,4,2025-26,North India,Assam,Cachar,BG,2.72,Final
+2025-04-01,2025,4,2025-26,North India,Assam,Cachar,SG,0.14,Final
+2025-04-01,2025,4,2025-26,North India,West Bengal,Darjeeling,BG,0.66,Final
+2025-04-01,2025,4,2025-26,North India,West Bengal,Darjeeling,SG,0.01,Final
+2025-04-01,2025,4,2025-26,North India,West Bengal,Dooars,BG,5.73,Final
+2025-04-01,2025,4,2025-26,North India,West Bengal,Dooars,SG,11.07,Final
+2025-04-01,2025,4,2025-26,South India,Karnataka,Karnataka,BG,0.42,Final
+2025-04-01,2025,4,2025-26,South India,Karnataka,Karnataka,SG,0.02,Final
+2025-04-01,2025,4,2025-26,South India,Kerala,Kerala,BG,4.3,Final
+2025-04-01,2025,4,2025-26,South India,Kerala,Kerala,SG,1.15,Final
+2025-04-01,2025,4,2025-26,North India,Others (North),Others (NE & HP etc.),BG,0.53,Final
+2025-04-01,2025,4,2025-26,North India,Others (North),Others (NE & HP etc.),SG,1.92,Final
+2025-04-01,2025,4,2025-26,South India,Tamil Nadu,Tamil Nadu,BG,6.65,Final
+2025-04-01,2025,4,2025-26,South India,Tamil Nadu,Tamil Nadu,SG,9.92,Final
+2025-04-01,2025,4,2025-26,North India,West Bengal,Terai,BG,1.67,Final
+2025-04-01,2025,4,2025-26,North India,West Bengal,Terai,SG,13.86,Final
+2025-05-01,2025,5,2025-26,North India,Assam,Assam Valley,BG,26.49,Final
+2025-05-01,2025,5,2025-26,North India,Assam,Assam Valley,SG,35.89,Final
+2025-05-01,2025,5,2025-26,North India,Assam,Cachar,BG,2.54,Final
+2025-05-01,2025,5,2025-26,North India,Assam,Cachar,SG,0.12,Final
+2025-05-01,2025,5,2025-26,North India,West Bengal,Darjeeling,BG,0.65,Final
+2025-05-01,2025,5,2025-26,North India,West Bengal,Darjeeling,SG,0.02,Final
+2025-05-01,2025,5,2025-26,North India,West Bengal,Dooars,BG,9.04,Final
+2025-05-01,2025,5,2025-26,North India,West Bengal,Dooars,SG,12.63,Final
+2025-05-01,2025,5,2025-26,South India,Karnataka,Karnataka,BG,0.46,Final
+2025-05-01,2025,5,2025-26,South India,Karnataka,Karnataka,SG,0.04,Final
+2025-05-01,2025,5,2025-26,South India,Kerala,Kerala,BG,5.88,Final
+2025-05-01,2025,5,2025-26,South India,Kerala,Kerala,SG,1.15,Final
+2025-05-01,2025,5,2025-26,North India,Others (North),Others (NE & HP etc.),BG,1.05,Final
+2025-05-01,2025,5,2025-26,North India,Others (North),Others (NE & HP etc.),SG,3.09,Final
+2025-05-01,2025,5,2025-26,South India,Tamil Nadu,Tamil Nadu,BG,6.65,Final
+2025-05-01,2025,5,2025-26,South India,Tamil Nadu,Tamil Nadu,SG,12.39,Final
+2025-05-01,2025,5,2025-26,North India,West Bengal,Terai,BG,2.98,Final
+2025-05-01,2025,5,2025-26,North India,West Bengal,Terai,SG,15.36,Final
+2025-06-01,2025,6,2025-26,North India,Assam,Assam Valley,BG,30.94,Final
+2025-06-01,2025,6,2025-26,North India,Assam,Assam Valley,SG,36.25,Final
+2025-06-01,2025,6,2025-26,North India,Assam,Cachar,BG,4.18,Final
+2025-06-01,2025,6,2025-26,North India,Assam,Cachar,SG,0.22,Final
+2025-06-01,2025,6,2025-26,North India,West Bengal,Darjeeling,BG,0.59,Final
+2025-06-01,2025,6,2025-26,North India,West Bengal,Darjeeling,SG,0.01,Final
+2025-06-01,2025,6,2025-26,North India,West Bengal,Dooars,BG,9.16,Final
+2025-06-01,2025,6,2025-26,North India,West Bengal,Dooars,SG,13.69,Final
+2025-06-01,2025,6,2025-26,South India,Karnataka,Karnataka,BG,0.34,Final
+2025-06-01,2025,6,2025-26,South India,Karnataka,Karnataka,SG,0.03,Final
+2025-06-01,2025,6,2025-26,South India,Kerala,Kerala,BG,3.62,Final
+2025-06-01,2025,6,2025-26,South India,Kerala,Kerala,SG,0.99,Final
+2025-06-01,2025,6,2025-26,North India,Others (North),Others (NE & HP etc.),BG,1.11,Final
+2025-06-01,2025,6,2025-26,North India,Others (North),Others (NE & HP etc.),SG,3.11,Final
+2025-06-01,2025,6,2025-26,South India,Tamil Nadu,Tamil Nadu,BG,4.39,Final
+2025-06-01,2025,6,2025-26,South India,Tamil Nadu,Tamil Nadu,SG,11.87,Final
+2025-06-01,2025,6,2025-26,North India,West Bengal,Terai,BG,2.69,Final
+2025-06-01,2025,6,2025-26,North India,West Bengal,Terai,SG,17.38,Final
+2025-07-01,2025,7,2025-26,North India,Assam,Assam Valley,BG,49.17,Final
+2025-07-01,2025,7,2025-26,North India,Assam,Assam Valley,SG,50.49,Final
+2025-07-01,2025,7,2025-26,North India,Assam,Cachar,BG,5.08,Final
+2025-07-01,2025,7,2025-26,North India,Assam,Cachar,SG,0.26,Final
+2025-07-01,2025,7,2025-26,North India,West Bengal,Darjeeling,BG,0.91,Final
+2025-07-01,2025,7,2025-26,North India,West Bengal,Darjeeling,SG,0.04,Final
+2025-07-01,2025,7,2025-26,North India,West Bengal,Dooars,BG,12.68,Final
+2025-07-01,2025,7,2025-26,North India,West Bengal,Dooars,SG,15.83,Final
+2025-07-01,2025,7,2025-26,South India,Karnataka,Karnataka,BG,0.27,Final
+2025-07-01,2025,7,2025-26,South India,Karnataka,Karnataka,SG,0.02,Final
+2025-07-01,2025,7,2025-26,South India,Kerala,Kerala,BG,3.72,Final
+2025-07-01,2025,7,2025-26,South India,Kerala,Kerala,SG,0.92,Final
+2025-07-01,2025,7,2025-26,North India,Others (North),Others (NE & HP etc.),BG,1.52,Final
+2025-07-01,2025,7,2025-26,North India,Others (North),Others (NE & HP etc.),SG,4.21,Final
+2025-07-01,2025,7,2025-26,South India,Tamil Nadu,Tamil Nadu,BG,4.51,Final
+2025-07-01,2025,7,2025-26,South India,Tamil Nadu,Tamil Nadu,SG,11.41,Final
+2025-07-01,2025,7,2025-26,North India,West Bengal,Terai,BG,4.3,Final
+2025-07-01,2025,7,2025-26,North India,West Bengal,Terai,SG,17.2,Final
+2025-08-01,2025,8,2025-26,North India,Assam,Assam Valley,BG,49.92,Final
+2025-08-01,2025,8,2025-26,North India,Assam,Assam Valley,SG,50.57,Final
+2025-08-01,2025,8,2025-26,North India,Assam,Cachar,BG,4.98,Final
+2025-08-01,2025,8,2025-26,North India,Assam,Cachar,SG,0.28,Final
+2025-08-01,2025,8,2025-26,North India,West Bengal,Darjeeling,BG,0.76,Final
+2025-08-01,2025,8,2025-26,North India,West Bengal,Darjeeling,SG,0.02,Final
+2025-08-01,2025,8,2025-26,North India,West Bengal,Dooars,BG,13.91,Final
+2025-08-01,2025,8,2025-26,North India,West Bengal,Dooars,SG,14.41,Final
+2025-08-01,2025,8,2025-26,South India,Karnataka,Karnataka,BG,0.15,Final
+2025-08-01,2025,8,2025-26,South India,Karnataka,Karnataka,SG,0.01,Final
+2025-08-01,2025,8,2025-26,South India,Kerala,Kerala,BG,2.59,Final
+2025-08-01,2025,8,2025-26,South India,Kerala,Kerala,SG,0.53,Final
+2025-08-01,2025,8,2025-26,North India,Others (North),Others (NE & HP etc.),BG,1.39,Final
+2025-08-01,2025,8,2025-26,North India,Others (North),Others (NE & HP etc.),SG,3.86,Final
+2025-08-01,2025,8,2025-26,South India,Tamil Nadu,Tamil Nadu,BG,3.16,Final
+2025-08-01,2025,8,2025-26,South India,Tamil Nadu,Tamil Nadu,SG,10.1,Final
+2025-08-01,2025,8,2025-26,North India,West Bengal,Terai,BG,4.05,Final
+2025-08-01,2025,8,2025-26,North India,West Bengal,Terai,SG,14.51,Final
+2025-09-01,2025,9,2025-26,North India,Assam,Assam Valley,BG,45.3,Final
+2025-09-01,2025,9,2025-26,North India,Assam,Assam Valley,SG,43.85,Final
+2025-09-01,2025,9,2025-26,North India,Assam,Cachar,BG,4.58,Final
+2025-09-01,2025,9,2025-26,North India,Assam,Cachar,SG,0.24,Final
+2025-09-01,2025,9,2025-26,North India,West Bengal,Darjeeling,BG,0.71,Final
+2025-09-01,2025,9,2025-26,North India,West Bengal,Darjeeling,SG,0.02,Final
+2025-09-01,2025,9,2025-26,North India,West Bengal,Dooars,BG,10.71,Final
+2025-09-01,2025,9,2025-26,North India,West Bengal,Dooars,SG,12.22,Final
+2025-09-01,2025,9,2025-26,South India,Karnataka,Karnataka,BG,0.27,Final
+2025-09-01,2025,9,2025-26,South India,Karnataka,Karnataka,SG,0.08,Final
+2025-09-01,2025,9,2025-26,South India,Kerala,Kerala,BG,4.15,Final
+2025-09-01,2025,9,2025-26,South India,Kerala,Kerala,SG,1.0,Final
+2025-09-01,2025,9,2025-26,North India,Others (North),Others (NE & HP etc.),BG,1.55,Final
+2025-09-01,2025,9,2025-26,North India,Others (North),Others (NE & HP etc.),SG,3.46,Final
+2025-09-01,2025,9,2025-26,South India,Tamil Nadu,Tamil Nadu,BG,4.48,Final
+2025-09-01,2025,9,2025-26,South India,Tamil Nadu,Tamil Nadu,SG,11.31,Final
+2025-09-01,2025,9,2025-26,North India,West Bengal,Terai,BG,3.15,Final
+2025-09-01,2025,9,2025-26,North India,West Bengal,Terai,SG,13.52,Final
+2025-10-01,2025,10,2025-26,North India,Assam,Assam Valley,BG,47.42,Final
+2025-10-01,2025,10,2025-26,North India,Assam,Assam Valley,SG,46.46,Final
+2025-10-01,2025,10,2025-26,North India,Assam,Cachar,BG,5.39,Final
+2025-10-01,2025,10,2025-26,North India,Assam,Cachar,SG,0.25,Final
+2025-10-01,2025,10,2025-26,North India,West Bengal,Darjeeling,BG,0.58,Final
+2025-10-01,2025,10,2025-26,North India,West Bengal,Darjeeling,SG,0.01,Final
+2025-10-01,2025,10,2025-26,North India,West Bengal,Dooars,BG,14.42,Final
+2025-10-01,2025,10,2025-26,North India,West Bengal,Dooars,SG,14.32,Final
+2025-10-01,2025,10,2025-26,South India,Karnataka,Karnataka,BG,0.37,Final
+2025-10-01,2025,10,2025-26,South India,Karnataka,Karnataka,SG,0.09,Final
+2025-10-01,2025,10,2025-26,South India,Kerala,Kerala,BG,4.27,Final
+2025-10-01,2025,10,2025-26,South India,Kerala,Kerala,SG,1.03,Final
+2025-10-01,2025,10,2025-26,North India,Others (North),Others (NE & HP etc.),BG,1.64,Final
+2025-10-01,2025,10,2025-26,North India,Others (North),Others (NE & HP etc.),SG,3.86,Final
+2025-10-01,2025,10,2025-26,South India,Tamil Nadu,Tamil Nadu,BG,4.42,Final
+2025-10-01,2025,10,2025-26,South India,Tamil Nadu,Tamil Nadu,SG,9.78,Final
+2025-10-01,2025,10,2025-26,North India,West Bengal,Terai,BG,4.31,Final
+2025-10-01,2025,10,2025-26,North India,West Bengal,Terai,SG,17.72,Final
+2025-11-01,2025,11,2025-26,North India,Assam,Assam Valley,BG,27.48,Final
+2025-11-01,2025,11,2025-26,North India,Assam,Assam Valley,SG,31.39,Final
+2025-11-01,2025,11,2025-26,North India,Assam,Cachar,BG,4.11,Final
+2025-11-01,2025,11,2025-26,North India,Assam,Cachar,SG,0.17,Final
+2025-11-01,2025,11,2025-26,North India,West Bengal,Darjeeling,BG,0.37,Final
+2025-11-01,2025,11,2025-26,North India,West Bengal,Darjeeling,SG,0.01,Final
+2025-11-01,2025,11,2025-26,North India,West Bengal,Dooars,BG,10.76,Final
+2025-11-01,2025,11,2025-26,North India,West Bengal,Dooars,SG,12.73,Final
+2025-11-01,2025,11,2025-26,South India,Karnataka,Karnataka,BG,0.41,Final
+2025-11-01,2025,11,2025-26,South India,Karnataka,Karnataka,SG,0.02,Final
+2025-11-01,2025,11,2025-26,South India,Kerala,Kerala,BG,3.6,Final
+2025-11-01,2025,11,2025-26,South India,Kerala,Kerala,SG,1.29,Final
+2025-11-01,2025,11,2025-26,North India,Others (North),Others (NE & HP etc.),BG,0.92,Final
+2025-11-01,2025,11,2025-26,North India,Others (North),Others (NE & HP etc.),SG,2.46,Final
+2025-11-01,2025,11,2025-26,South India,Tamil Nadu,Tamil Nadu,BG,4.19,Final
+2025-11-01,2025,11,2025-26,South India,Tamil Nadu,Tamil Nadu,SG,10.18,Final
+2025-11-01,2025,11,2025-26,North India,West Bengal,Terai,BG,3.43,Final
+2025-11-01,2025,11,2025-26,North India,West Bengal,Terai,SG,15.82,Final
+2025-12-01,2025,12,2025-26,North India,Assam,Assam Valley,BG,11.79,Final
+2025-12-01,2025,12,2025-26,North India,Assam,Assam Valley,SG,10.36,Final
+2025-12-01,2025,12,2025-26,North India,Assam,Cachar,BG,2.03,Final
+2025-12-01,2025,12,2025-26,North India,Assam,Cachar,SG,0.08,Final
+2025-12-01,2025,12,2025-26,North India,West Bengal,Darjeeling,BG,0.1,Final
+2025-12-01,2025,12,2025-26,North India,West Bengal,Darjeeling,SG,0.01,Final
+2025-12-01,2025,12,2025-26,North India,West Bengal,Dooars,BG,5.33,Final
+2025-12-01,2025,12,2025-26,North India,West Bengal,Dooars,SG,13.37,Final
+2025-12-01,2025,12,2025-26,South India,Karnataka,Karnataka,BG,0.37,Final
+2025-12-01,2025,12,2025-26,South India,Karnataka,Karnataka,SG,0.02,Final
+2025-12-01,2025,12,2025-26,South India,Kerala,Kerala,BG,3.74,Final
+2025-12-01,2025,12,2025-26,South India,Kerala,Kerala,SG,1.02,Final
+2025-12-01,2025,12,2025-26,North India,Others (North),Others (NE & HP etc.),BG,0.51,Final
+2025-12-01,2025,12,2025-26,North India,Others (North),Others (NE & HP etc.),SG,2.0,Final
+2025-12-01,2025,12,2025-26,South India,Tamil Nadu,Tamil Nadu,BG,3.82,Final
+2025-12-01,2025,12,2025-26,South India,Tamil Nadu,Tamil Nadu,SG,9.19,Final
+2025-12-01,2025,12,2025-26,North India,West Bengal,Terai,BG,2.3,Final
+2025-12-01,2025,12,2025-26,North India,West Bengal,Terai,SG,18.67,Final
+2026-01-01,2026,1,2025-26,North India,Assam,Assam Valley,BG,0.32,Final
+2026-01-01,2026,1,2025-26,North India,Assam,Assam Valley,SG,0.11,Final
+2026-01-01,2026,1,2025-26,North India,Assam,Cachar,BG,0.04,Final
+2026-01-01,2026,1,2025-26,North India,Assam,Cachar,SG,0.0,Final
+2026-01-01,2026,1,2025-26,North India,West Bengal,Darjeeling,BG,0.0,Final
+2026-01-01,2026,1,2025-26,North India,West Bengal,Darjeeling,SG,0.0,Final
+2026-01-01,2026,1,2025-26,North India,West Bengal,Dooars,BG,0.19,Final
+2026-01-01,2026,1,2025-26,North India,West Bengal,Dooars,SG,0.43,Final
+2026-01-01,2026,1,2025-26,South India,Karnataka,Karnataka,BG,0.3,Final
+2026-01-01,2026,1,2025-26,South India,Karnataka,Karnataka,SG,0.02,Final
+2026-01-01,2026,1,2025-26,South India,Kerala,Kerala,BG,3.39,Final
+2026-01-01,2026,1,2025-26,South India,Kerala,Kerala,SG,0.92,Final
+2026-01-01,2026,1,2025-26,North India,Others (North),Others (NE & HP etc.),BG,0.01,Final
+2026-01-01,2026,1,2025-26,North India,Others (North),Others (NE & HP etc.),SG,0.1,Final
+2026-01-01,2026,1,2025-26,South India,Tamil Nadu,Tamil Nadu,BG,3.02,Final
+2026-01-01,2026,1,2025-26,South India,Tamil Nadu,Tamil Nadu,SG,5.1,Final
+2026-01-01,2026,1,2025-26,North India,West Bengal,Terai,BG,0.04,Final
+2026-01-01,2026,1,2025-26,North India,West Bengal,Terai,SG,0.57,Final
+2026-02-01,2026,2,2025-26,North India,Assam,Assam Valley,BG,0.25,Final
+2026-02-01,2026,2,2025-26,North India,Assam,Assam Valley,SG,0.11,Final
+2026-02-01,2026,2,2025-26,North India,Assam,Cachar,BG,0.05,Final
+2026-02-01,2026,2,2025-26,North India,Assam,Cachar,SG,0.0,Final
+2026-02-01,2026,2,2025-26,North India,West Bengal,Darjeeling,BG,0.0,Final
+2026-02-01,2026,2,2025-26,North India,West Bengal,Darjeeling,SG,0.03,Final
+2026-02-01,2026,2,2025-26,North India,West Bengal,Dooars,BG,1.21,Final
+2026-02-01,2026,2,2025-26,North India,West Bengal,Dooars,SG,1.04,Final
+2026-02-01,2026,2,2025-26,South India,Karnataka,Karnataka,BG,0.25,Final
+2026-02-01,2026,2,2025-26,South India,Karnataka,Karnataka,SG,0.01,Final
+2026-02-01,2026,2,2025-26,South India,Kerala,Kerala,BG,2.95,Final
+2026-02-01,2026,2,2025-26,South India,Kerala,Kerala,SG,0.74,Final
+2026-02-01,2026,2,2025-26,North India,Others (North),Others (NE & HP etc.),BG,0.0,Final
+2026-02-01,2026,2,2025-26,North India,Others (North),Others (NE & HP etc.),SG,0.05,Final
+2026-02-01,2026,2,2025-26,South India,Tamil Nadu,Tamil Nadu,BG,3.36,Final
+2026-02-01,2026,2,2025-26,South India,Tamil Nadu,Tamil Nadu,SG,5.16,Final
+2026-02-01,2026,2,2025-26,North India,West Bengal,Terai,BG,0.29,Final
+2026-02-01,2026,2,2025-26,North India,West Bengal,Terai,SG,0.57,Final
+2026-03-01,2026,3,2025-26,North India,Assam,Assam Valley,BG,6.63,Final
+2026-03-01,2026,3,2025-26,North India,Assam,Assam Valley,SG,10.27,Final
+2026-03-01,2026,3,2025-26,North India,Assam,Cachar,BG,0.59,Final
+2026-03-01,2026,3,2025-26,North India,Assam,Cachar,SG,0.02,Final
+2026-03-01,2026,3,2025-26,North India,West Bengal,Darjeeling,BG,0.15,Final
+2026-03-01,2026,3,2025-26,North India,West Bengal,Darjeeling,SG,0.32,Final
+2026-03-01,2026,3,2025-26,North India,West Bengal,Dooars,BG,7.03,Final
+2026-03-01,2026,3,2025-26,North India,West Bengal,Dooars,SG,9.28,Final
+2026-03-01,2026,3,2025-26,South India,Karnataka,Karnataka,BG,0.35,Final
+2026-03-01,2026,3,2025-26,South India,Karnataka,Karnataka,SG,0.02,Final
+2026-03-01,2026,3,2025-26,South India,Kerala,Kerala,BG,3.67,Final
+2026-03-01,2026,3,2025-26,South India,Kerala,Kerala,SG,0.89,Final
+2026-03-01,2026,3,2025-26,North India,Others (North),Others (NE & HP etc.),BG,0.25,Final
+2026-03-01,2026,3,2025-26,North India,Others (North),Others (NE & HP etc.),SG,1.54,Final
+2026-03-01,2026,3,2025-26,South India,Tamil Nadu,Tamil Nadu,BG,5.24,Final
+2026-03-01,2026,3,2025-26,South India,Tamil Nadu,Tamil Nadu,SG,7.61,Final
+2026-03-01,2026,3,2025-26,North India,West Bengal,Terai,BG,2.37,Final
+2026-03-01,2026,3,2025-26,North India,West Bengal,Terai,SG,10.75,Final

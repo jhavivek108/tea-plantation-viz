@@ -1,0 +1,32 @@
+# --- Python environment & caches -------------------------------------------
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# --- Editors & operating system ---------------------------------------------
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# --- Office lock files (created while a .docx/.xlsx is open) ----------------
+~$*
+
+# --- Generated / temporary build files ---------------------------------------
+# Unzipped copy of the report template, recreated by src/report.py
+report/tpl/
+# Run logs
+*.log
+reports/analysis_log.txt
+# Medium preview page, rebuilt by `python src/medium.py build`
+medium/preview.html
+
+# --- Personal documents -------------------------------------------------------
+# Filled reports carry student names and roll numbers on page 1.
+# Delete these lines if you want the report in the repository.
+report/DAV_Micro_Project_Report*.docx
+report/template.docx

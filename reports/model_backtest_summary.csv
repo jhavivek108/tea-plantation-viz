@@ -1,0 +1,6 @@
+model,india_MAE,india_RMSE,india_WAPE_pct,series_WAPE_pct,series_R2,abs_annual_error_pct
+Seasonal median,10.699,13.635,9.501,14.823,0.966,3.199
+Random forest,11.341,14.29,10.09,15.421,0.96,3.619
+Ridge regression,12.402,15.147,10.996,16.786,0.965,2.774
+Gradient boosting,12.813,16.473,11.397,17.531,0.947,4.539
+Seasonal naive,14.946,20.149,13.184,18.264,0.942,3.872

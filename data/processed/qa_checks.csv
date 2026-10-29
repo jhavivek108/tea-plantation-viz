@@ -1,0 +1,30 @@
+check,result,detail
+Duplicate months agree across files (same status),PASS,"3276 duplicated cells, max disagreement 0.00 M kg"
+Provisional vs Final overlap (informational),PASS,2025-01: All India final-provisional = +0.12
+"BG + SG = Total (every row, every month)",PASS,"1218 rows, max error 0.00; rows > 0.02: 0"
+Hierarchy: Assam Valley + Cachar = Assam,PASS,max error 0.00 M kg over 261 month-grower cells
+Hierarchy: Dooars + Terai + Darjeeling = West Bengal,PASS,max error 0.00 M kg over 261 month-grower cells
+Hierarchy: Assam + West Bengal + Others = North India,PASS,max error 0.00 M kg over 261 month-grower cells
+Hierarchy: Tamil Nadu + Kerala + Karnataka = South India,PASS,max error 0.00 M kg over 261 month-grower cells
+Hierarchy: North India + South India = All India,PASS,max error 0.00 M kg over 261 month-grower cells
+Printed total CY2019 (Website_Production_Data_for_...) = sum of its months,PASS,max error 0.00 M kg
+Printed total FY2019-20 (Website_Production_Data_for_...) = sum of its months,PASS,max error 0.00 M kg
+Printed total CY2020 (Production_Data_for_2020_202...) = sum of its months,PASS,max error 0.00 M kg
+Printed total FY2020-21 (Production_Data_for_2020_202...) = sum of its months,PASS,max error 0.00 M kg
+Printed total CY2021 (Production_data_for_2021_and...) = sum of its months,PASS,max error 0.00 M kg
+Printed total FY2021-22 (Production_data_for_2021_and...) = sum of its months,PASS,max error 0.00 M kg
+Printed total CY2022 (Production_2022_and_2022_23_...) = sum of its months,PASS,max error 0.00 M kg
+Printed total FY2022-23 (Production_2022_and_2022_23_...) = sum of its months,PASS,max error 0.00 M kg
+Printed total CY2023 (State_Region_wise_tea_produc...) = sum of its months,PASS,max error 0.00 M kg
+Printed total CY2024 (State_Region_wise_tea_produc...) = sum of its months,PASS,max error 0.00 M kg
+Printed total FY2023-24 (State_Region_wise_tea_produc...) = sum of its months,PASS,max error 0.00 M kg
+Printed total FY2024-25 Apr-Jan (State_Region_wise_tea_produc...) = sum of its months,PASS,max error 0.00 M kg
+Printed total CY2025 (Annual_Production_2025_and_2...) = sum of its months,PASS,max error 0.00 M kg
+Printed total FY2025-26 (Annual_Production_2025_and_2...) = sum of its months,PASS,max error 0.00 M kg
+Category: CTC + Orthodox + Green = Total,PASS,max error 0.00
+Category total = state-table total (North India),PASS,max error 0.00
+Category total = state-table total (South India),PASS,max error 0.00
+Category total = state-table total (All India),PASS,max error 0.00
+Annual FINAL totals = sum of FINAL monthly figures,PASS,"30 period-zone totals checked, max gap 0.00 M kg"
+Annual FINAL totals vs PROVISIONAL monthly figures (2024),INFO,2024-25 North India: final 1090.32 vs months 1071.73 (gap +18.59); 2024-25 South India: final 225.45 vs months 225.29 (gap +0.16); 2024-25 All India: final 1315.77 vs months 1297.02 (gap +18.75); 2024 North India: final 1076.57 vs months 1057.98 (gap +18.59); 2024 South India: final 226.96 vs months 226.8 (gap +0.16); 2024 All India: final 1303.53 vs months 1284.78 (gap +18.75)
+Monthly coverage is continuous,PASS,"87 months, Jan-2019 to Mar-2026"

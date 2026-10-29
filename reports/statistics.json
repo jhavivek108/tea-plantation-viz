@@ -1,0 +1,602 @@
+{
+  "trend": {
+    "cy2017": 1321.76,
+    "cy2025": 1395.53,
+    "cagr_2017_2025_pct": 0.68,
+    "kendall_tau": 0.389,
+    "kendall_p": 0.18,
+    "ols_slope_mkg_per_year": 5.1,
+    "ols_p": 0.434,
+    "record_year": 2025,
+    "record_mkg": 1395.53,
+    "yoy_pct": {
+      "2018": 1.28,
+      "2019": 3.84,
+      "2020": -9.54,
+      "2021": 6.8,
+      "2022": 1.73,
+      "2023": 2.0,
+      "2024": -6.47,
+      "2025": 7.06
+    }
+  },
+  "seasonality": {
+    "North India": {
+      "coef_variation_pct": 62.2,
+      "peak_month": 8,
+      "trough_month": 1,
+      "kruskal_H": 78.2,
+      "kruskal_p": 3.25e-12,
+      "jul_oct_share_pct": 55.5
+    },
+    "South India": {
+      "coef_variation_pct": 21.2,
+      "peak_month": 6,
+      "trough_month": 2,
+      "kruskal_H": 53.2,
+      "kruskal_p": 1.63e-07,
+      "jul_oct_share_pct": 35.4
+    }
+  },
+  "small_growers": {
+    "sg_share_2019_pct": 49.3,
+    "sg_share_2025_pct": 56.6,
+    "trend_pp_per_year": 1.12,
+    "trend_r2": 0.957,
+    "trend_p": 0.0001,
+    "by_state_2019_vs_2025": {
+      "Assam": [
+        44.9,
+        49.4
+      ],
+      "West Bengal": [
+        55.8,
+        67.8
+      ],
+      "Tamil Nadu": [
+        61.2,
+        68.3
+      ],
+      "Kerala": [
+        19.7,
+        20.1
+      ]
+    },
+    "bg_2019_mkg": 705.1,
+    "bg_2025_mkg": 605.0
+  },
+  "state_share_pct": {
+    "2019": {
+      "Assam": 51.5,
+      "West Bengal": 30.5,
+      "Others (North)": 2.2,
+      "Tamil Nadu": 11.2,
+      "Kerala": 4.2,
+      "Karnataka": 0.3
+    },
+    "2025": {
+      "Assam": 50.1,
+      "West Bengal": 30.2,
+      "Others (North)": 2.9,
+      "Tamil Nadu": 12.3,
+      "Kerala": 4.2,
+      "Karnataka": 0.3
+    }
+  },
+  "category": {
+    "ctc_share_2025_pct": 88.0,
+    "orthodox_mkg": {
+      "2019": 139.04,
+      "2020": 96.41,
+      "2021": 113.84,
+      "2022": 130.58,
+      "2023": 118.17,
+      "2024": 118.67,
+      "2025": 149.04
+    },
+    "orthodox_share_pct": {
+      "2019": 10.0,
+      "2020": 7.7,
+      "2021": 8.5,
+      "2022": 9.6,
+      "2023": 8.5,
+      "2024": 9.2,
+      "2025": 10.7
+    },
+    "green_share_2025_pct": 1.35
+  },
+  "shocks": {
+    "apr_may_2020_vs_2019_pct": -37.9,
+    "cy2020_vs_2019_pct": -9.5,
+    "dec2024_mkg": 29.39,
+    "dec_other_years_mean": 73.3,
+    "dec2024_zscore": -4.71,
+    "provisional_2024_gap_vs_final_annual": [
+      {
+        "period_type": "fiscal_year",
+        "period": "2019-20",
+        "zone": "North India",
+        "value": 1140.69,
+        "source_file": "Production_Region_wise_FINAL_pdf9516.pdf",
+        "sum_of_months": 1140.69,
+        "gap": 0.0,
+        "months_include_provisional": false
+      },
+      {
+        "period_type": "fiscal_year",
+        "period": "2019-20",
+        "zone": "South India",
+        "value": 220.12,
+        "source_file": "Production_Region_wise_FINAL_pdf9516.pdf",
+        "sum_of_months": 220.12,
+        "gap": 0.0,
+        "months_include_provisional": false
+      },
+      {
+        "period_type": "fiscal_year",
+        "period": "2019-20",
+        "zone": "All India",
+        "value": 1360.81,
+        "source_file": "Production_Region_wise_FINAL_pdf9516.pdf",
+        "sum_of_months": 1360.81,
+        "gap": 0.0,
+        "months_include_provisional": false
+      },
+      {
+        "period_type": "fiscal_year",
+        "period": "2020-21",
+        "zone": "North India",
+        "value": 1050.8,
+        "source_file": "Production_Region_wise_FINAL_pdf9516.pdf",
+        "sum_of_months": 1050.8,
+        "gap": 0.0,
+        "months_include_provisional": false
+      },
+      {
+        "period_type": "fiscal_year",
+        "period": "2020-21",
+        "zone": "South India",
+        "value": 232.23,
+        "source_file": "Production_Region_wise_FINAL_pdf9516.pdf",
+        "sum_of_months": 232.23,
+        "gap": 0.0,
+        "months_include_provisional": false
+      },
+      {
+        "period_type": "fiscal_year",
+        "period": "2020-21",
+        "zone": "All India",
+        "value": 1283.03,
+        "source_file": "Production_Region_wise_FINAL_pdf9516.pdf",
+        "sum_of_months": 1283.03,
+        "gap": 0.0,
+        "months_include_provisional": false
+      },
+      {
+        "period_type": "fiscal_year",
+        "period": "2021-22",
+        "zone": "North India",
+        "value": 1113.04,
+        "source_file": "Production_Region_wise_FINAL_pdf9516.pdf",
+        "sum_of_months": 1113.04,
+        "gap": 0.0,
+        "months_include_provisional": false
+      },
+      {
+        "period_type": "fiscal_year",
+        "period": "2021-22",
+        "zone": "South India",
+        "value": 231.36,
+        "source_file": "Production_Region_wise_FINAL_pdf9516.pdf",
+        "sum_of_months": 231.36,
+        "gap": 0.0,
+        "months_include_provisional": false
+      },
+      {
+        "period_type": "fiscal_year",
+        "period": "2021-22",
+        "zone": "All India",
+        "value": 1344.4,
+        "source_file": "Production_Region_wise_FINAL_pdf9516.pdf",
+        "sum_of_months": 1344.4,
+        "gap": 0.0,
+        "months_include_provisional": false
+      },
+      {
+        "period_type": "fiscal_year",
+        "period": "2022-23",
+        "zone": "North India",
+        "value": 1149.5,
+        "source_file": "Production_Region_wise_FINAL_pdf9516.pdf",
+        "sum_of_months": 1149.5,
+        "gap": 0.0,
+        "months_include_provisional": false
+      },
+      {
+        "period_type": "fiscal_year",
+        "period": "2022-23",
+        "zone": "South India",
+        "value": 225.47,
+        "source_file": "Production_Region_wise_FINAL_pdf9516.pdf",
+        "sum_of_months": 225.47,
+        "gap": 0.0,
+        "months_include_provisional": false
+      },
+      {
+        "period_type": "fiscal_year",
+        "period": "2022-23",
+        "zone": "All India",
+        "value": 1374.97,
+        "source_file": "Production_Region_wise_FINAL_pdf9516.pdf",
+        "sum_of_months": 1374.97,
+        "gap": 0.0,
+        "months_include_provisional": false
+      },
+      {
+        "period_type": "fiscal_year",
+        "period": "2023-24",
+        "zone": "North India",
+        "value": 1137.15,
+        "source_file": "Production_Region_wise_FINAL_pdf9516.pdf",
+        "sum_of_months": 1137.15,
+        "gap": 0.0,
+        "months_include_provisional": false
+      },
+      {
+        "period_type": "fiscal_year",
+        "period": "2023-24",
+        "zone": "South India",
+        "value": 244.88,
+        "source_file": "Production_Region_wise_FINAL_pdf9516.pdf",
+        "sum_of_months": 244.88,
+        "gap": -0.0,
+        "months_include_provisional": false
+      },
+      {
+        "period_type": "fiscal_year",
+        "period": "2023-24",
+        "zone": "All India",
+        "value": 1382.03,
+        "source_file": "Production_Region_wise_FINAL_pdf9516.pdf",
+        "sum_of_months": 1382.03,
+        "gap": -0.0,
+        "months_include_provisional": false
+      },
+      {
+        "period_type": "fiscal_year",
+        "period": "2024-25",
+        "zone": "North India",
+        "value": 1090.32,
+        "source_file": "Production_Region_wise_FINAL_pdf9516.pdf",
+        "sum_of_months": 1071.73,
+        "gap": 18.59,
+        "months_include_provisional": true
+      },
+      {
+        "period_type": "fiscal_year",
+        "period": "2024-25",
+        "zone": "South India",
+        "value": 225.45,
+        "source_file": "Production_Region_wise_FINAL_pdf9516.pdf",
+        "sum_of_months": 225.29,
+        "gap": 0.16,
+        "months_include_provisional": true
+      },
+      {
+        "period_type": "fiscal_year",
+        "period": "2024-25",
+        "zone": "All India",
+        "value": 1315.77,
+        "source_file": "Production_Region_wise_FINAL_pdf9516.pdf",
+        "sum_of_months": 1297.02,
+        "gap": 18.75,
+        "months_include_provisional": true
+      },
+      {
+        "period_type": "calendar_year",
+        "period": "2019",
+        "zone": "North India",
+        "value": 1171.09,
+        "source_file": "Production_Region_wise_FINAL_pdf9516.pdf",
+        "sum_of_months": 1171.09,
+        "gap": -0.0,
+        "months_include_provisional": false
+      },
+      {
+        "period_type": "calendar_year",
+        "period": "2019",
+        "zone": "South India",
+        "value": 218.99,
+        "source_file": "Production_Region_wise_FINAL_pdf9516.pdf",
+        "sum_of_months": 218.99,
+        "gap": 0.0,
+        "months_include_provisional": false
+      },
+      {
+        "period_type": "calendar_year",
+        "period": "2019",
+        "zone": "All India",
+        "value": 1390.08,
+        "source_file": "Production_Region_wise_FINAL_pdf9516.pdf",
+        "sum_of_months": 1390.08,
+        "gap": 0.0,
+        "months_include_provisional": false
+      },
+      {
+        "period_type": "calendar_year",
+        "period": "2020",
+        "zone": "North India",
+        "value": 1035.48,
+        "source_file": "Production_Region_wise_FINAL_pdf9516.pdf",
+        "sum_of_months": 1035.48,
+        "gap": 0.0,
+        "months_include_provisional": false
+      },
+      {
+        "period_type": "calendar_year",
+        "period": "2020",
+        "zone": "South India",
+        "value": 222.05,
+        "source_file": "Production_Region_wise_FINAL_pdf9516.pdf",
+        "sum_of_months": 222.05,
+        "gap": -0.0,
+        "months_include_provisional": false
+      },
+      {
+        "period_type": "calendar_year",
+        "period": "2020",
+        "zone": "All India",
+        "value": 1257.53,
+        "source_file": "Production_Region_wise_FINAL_pdf9516.pdf",
+        "sum_of_months": 1257.53,
+        "gap": 0.0,
+        "months_include_provisional": false
+      },
+      {
+        "period_type": "calendar_year",
+        "period": "2021",
+        "zone": "North India",
+        "value": 1108.04,
+        "source_file": "Production_Region_wise_FINAL_pdf9516.pdf",
+        "sum_of_months": 1108.04,
+        "gap": 0.0,
+        "months_include_provisional": false
+      },
+      {
+        "period_type": "calendar_year",
+        "period": "2021",
+        "zone": "South India",
+        "value": 235.02,
+        "source_file": "Production_Region_wise_FINAL_pdf9516.pdf",
+        "sum_of_months": 235.02,
+        "gap": 0.0,
+        "months_include_provisional": false
+      },
+      {
+        "period_type": "calendar_year",
+        "period": "2021",
+        "zone": "All India",
+        "value": 1343.06,
+        "source_file": "Production_Region_wise_FINAL_pdf9516.pdf",
+        "sum_of_months": 1343.06,
+        "gap": 0.0,
+        "months_include_provisional": false
+      },
+      {
+        "period_type": "calendar_year",
+        "period": "2022",
+        "zone": "North India",
+        "value": 1134.54,
+        "source_file": "Production_Region_wise_FINAL_pdf9516.pdf",
+        "sum_of_months": 1134.54,
+        "gap": 0.0,
+        "months_include_provisional": false
+      },
+      {
+        "period_type": "calendar_year",
+        "period": "2022",
+        "zone": "South India",
+        "value": 231.82,
+        "source_file": "Production_Region_wise_FINAL_pdf9516.pdf",
+        "sum_of_months": 231.82,
+        "gap": 0.0,
+        "months_include_provisional": false
+      },
+      {
+        "period_type": "calendar_year",
+        "period": "2022",
+        "zone": "All India",
+        "value": 1366.36,
+        "source_file": "Production_Region_wise_FINAL_pdf9516.pdf",
+        "sum_of_months": 1366.36,
+        "gap": -0.0,
+        "months_include_provisional": false
+      },
+      {
+        "period_type": "calendar_year",
+        "period": "2023",
+        "zone": "North India",
+        "value": 1156.98,
+        "source_file": "Production_Region_wise_FINAL_pdf9516.pdf",
+        "sum_of_months": 1156.98,
+        "gap": 0.0,
+        "months_include_provisional": false
+      },
+      {
+        "period_type": "calendar_year",
+        "period": "2023",
+        "zone": "South India",
+        "value": 236.68,
+        "source_file": "Production_Region_wise_FINAL_pdf9516.pdf",
+        "sum_of_months": 236.68,
+        "gap": 0.0,
+        "months_include_provisional": false
+      },
+      {
+        "period_type": "calendar_year",
+        "period": "2023",
+        "zone": "All India",
+        "value": 1393.66,
+        "source_file": "Production_Region_wise_FINAL_pdf9516.pdf",
+        "sum_of_months": 1393.66,
+        "gap": 0.0,
+        "months_include_provisional": false
+      },
+      {
+        "period_type": "calendar_year",
+        "period": "2024",
+        "zone": "North India",
+        "value": 1076.57,
+        "source_file": "Production_Region_wise_FINAL_pdf9516.pdf",
+        "sum_of_months": 1057.98,
+        "gap": 18.59,
+        "months_include_provisional": true
+      },
+      {
+        "period_type": "calendar_year",
+        "period": "2024",
+        "zone": "South India",
+        "value": 226.96,
+        "source_file": "Production_Region_wise_FINAL_pdf9516.pdf",
+        "sum_of_months": 226.8,
+        "gap": 0.16,
+        "months_include_provisional": true
+      },
+      {
+        "period_type": "calendar_year",
+        "period": "2024",
+        "zone": "All India",
+        "value": 1303.53,
+        "source_file": "Production_Region_wise_FINAL_pdf9516.pdf",
+        "sum_of_months": 1284.78,
+        "gap": 18.75,
+        "months_include_provisional": true
+      }
+    ]
+  },
+  "stl": {
+    "seasonal_strength": 0.954,
+    "trend_strength": 0
+  },
+  "model": {
+    "lowest_error": "Seasonal median",
+    "best_ml": "Random forest",
+    "summary": {
+      "Seasonal median": {
+        "india_MAE": 10.699,
+        "india_RMSE": 13.635,
+        "india_WAPE_pct": 9.501,
+        "series_WAPE_pct": 14.823,
+        "series_R2": 0.966,
+        "abs_annual_error_pct": 3.199
+      },
+      "Random forest": {
+        "india_MAE": 11.341,
+        "india_RMSE": 14.29,
+        "india_WAPE_pct": 10.09,
+        "series_WAPE_pct": 15.421,
+        "series_R2": 0.96,
+        "abs_annual_error_pct": 3.619
+      },
+      "Ridge regression": {
+        "india_MAE": 12.402,
+        "india_RMSE": 15.147,
+        "india_WAPE_pct": 10.996,
+        "series_WAPE_pct": 16.786,
+        "series_R2": 0.965,
+        "abs_annual_error_pct": 2.774
+      },
+      "Gradient boosting": {
+        "india_MAE": 12.813,
+        "india_RMSE": 16.473,
+        "india_WAPE_pct": 11.397,
+        "series_WAPE_pct": 17.531,
+        "series_R2": 0.947,
+        "abs_annual_error_pct": 4.539
+      },
+      "Seasonal naive": {
+        "india_MAE": 14.946,
+        "india_RMSE": 20.149,
+        "india_WAPE_pct": 13.184,
+        "series_WAPE_pct": 18.264,
+        "series_R2": 0.942,
+        "abs_annual_error_pct": 3.872
+      }
+    },
+    "by_fold_wape": {
+      "Gradient boosting": {
+        "2022-23": 12.78,
+        "2023-24": 7.44,
+        "2024-25": 16.73,
+        "2025-26": 8.64
+      },
+      "Random forest": {
+        "2022-23": 10.95,
+        "2023-24": 6.41,
+        "2024-25": 14.89,
+        "2025-26": 8.1
+      },
+      "Ridge regression": {
+        "2022-23": 12.85,
+        "2023-24": 7.8,
+        "2024-25": 13.76,
+        "2025-26": 9.57
+      },
+      "Seasonal median": {
+        "2022-23": 10.45,
+        "2023-24": 6.8,
+        "2024-25": 12.9,
+        "2025-26": 7.86
+      },
+      "Seasonal naive": {
+        "2022-23": 14.85,
+        "2023-24": 9.45,
+        "2024-25": 12.34,
+        "2025-26": 16.09
+      }
+    },
+    "significance_tests": {
+      "Random forest vs Seasonal median": {
+        "mean_abs_err_a": 11.34,
+        "mean_abs_err_b": 10.7,
+        "wilcoxon_p": 0.2427
+      },
+      "Random forest vs Seasonal naive": {
+        "mean_abs_err_a": 11.34,
+        "mean_abs_err_b": 14.95,
+        "wilcoxon_p": 0.0501
+      },
+      "Seasonal median vs Seasonal naive": {
+        "mean_abs_err_a": 10.7,
+        "mean_abs_err_b": 14.95,
+        "wilcoxon_p": 0.0055
+      }
+    },
+    "permutation_importance_mae_increase": {
+      "Month (cosine)": -0.013,
+      "Month (one-hot)": 0.001,
+      "Year-ago month was disrupted": 0.004,
+      "Producing area": 0.019,
+      "Month (sine)": 0.022,
+      "Grower type (BG/SG)": 0.063,
+      "Same month, 2 years ago": 0.065,
+      "Same month, 1 year ago": 0.927,
+      "Median of same month, prior years": 1.662,
+      "Mean of same month, prior years": 4.237
+    }
+  },
+  "forecast_FY2026_27": {
+    "model": "Random forest",
+    "total_mkg": 1372.8,
+    "vs_FY2025_26_pct": -0.72,
+    "annual_range_from_backtest_mkg": [
+      1267.7,
+      1418.4
+    ],
+    "north_mkg": 1137.2,
+    "south_mkg": 235.6,
+    "benchmark": "Seasonal median",
+    "benchmark_total_mkg": 1355.7,
+    "benchmark_vs_FY2025_26_pct": -1.96
+  }
+}
