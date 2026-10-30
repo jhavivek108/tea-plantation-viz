@@ -10,6 +10,7 @@ python -m venv .venv
 .venv\Scripts\python src\extract.py          # PDFs -> curated dataset + 29 QA checks
 .venv\Scripts\python src\analysis.py         # statistics, 12 figures, models, forecast
 .venv\Scripts\python src\build_notebook.py   # same analysis as an executed notebook
+.venv\Scripts\python src\dashboard_charts.py # dashboard charts: map, treemap, radar, fan chart...
 .venv\Scripts\python src\dashboard.py        # offline dashboard -> reports\dashboard.html
 .venv\Scripts\python src\medium.py serve     # Medium article preview at http://127.0.0.1:8000/preview.html
 ```
@@ -24,6 +25,7 @@ The publishing steps are in `medium/PUBLISHING.md`.
 | Path | Contents |
 |---|---|
 | `data/raw/` | The 7 source PDFs (Tea Board, Kolkata) |
+| `data/external/` | India state boundaries for the dashboard map: geoBoundaries gbOpen IND ADM1 (DataMeet / Election Commission of India, CC BY 2.5 IN) |
 | `data/processed/tea_production_master.csv` | **The single curated dataset** (4,746 rows) |
 | `data/processed/tea_production_curated.xlsx` | Master table, modelling view, QA checks, reconciliation and data dictionary in one workbook (ready for Power BI or Tableau) |
 | `data/processed/monthly_area_grower.csv` | Modelling view: 9 areas × 2 grower types × 87 months |

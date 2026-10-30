@@ -2,7 +2,7 @@
 
 Usage:  python src/dashboard.py        ->  reports/dashboard.html (open it in any browser)
 
-Run src/extract.py and src/analysis.py first. The dashboard embeds the figures from
+Run src/extract.py, src/analysis.py and src/dashboard_charts.py first. The dashboard embeds the charts from
 reports/figures and the curated monthly data, so it needs no internet connection,
 server, or extra packages. The "Explore" tab draws its chart in the browser from the
 embedded data: pick any area / state / zone, grower segment and year range.
@@ -22,26 +22,27 @@ REPORTS = ROOT / "reports"
 FIG = REPORTS / "figures"
 OUT = REPORTS / "dashboard.html"
 
-TABS = [
+TABS = [  # charts drawn by src/dashboard_charts.py (reports/figures/dashboard/)
     ("overview", "Overview", [
-        ("01_annual_production.png", "Calendar-year production, North vs South India"),
-        ("02_seasonality_heatmap.png", "All-India production by month and year"),
+        ("dashboard/d01_map.png", "Map: where India's tea grows"),
+        ("dashboard/d02_waterfall.png", "Waterfall: year-on-year change, 2017–2025"),
+        ("dashboard/d03_treemap.png", "Treemap: every area and grower group, 2025"),
     ]),
     ("seasonality", "Seasonality & shocks", [
-        ("03_seasonal_profile.png", "Typical month, North vs South"),
-        ("08_stl_decomposition.png", "Trend, seasonal and residual components"),
-        ("07_covid_impact.png", "COVID-19 impact, 2020 vs 2019"),
+        ("dashboard/d04_tea_clock.png", "Radial chart: the tea clock"),
+        ("dashboard/d05_cycle_plot.png", "Cycle plot: each month across the years"),
+        ("dashboard/d06_shock_lollipop.png", "Lollipop chart: departures from the seasonal norm"),
     ]),
     ("structure", "Growers, states & products", [
-        ("04_small_grower_share.png", "Small-grower share of production"),
-        ("05_state_share.png", "State share of production"),
-        ("06_orthodox_production.png", "Orthodox tea production"),
+        ("dashboard/d07_dumbbell.png", "Dumbbell plot: small-grower share 2019 → 2025"),
+        ("dashboard/d08_marimekko.png", "Marimekko: state size × grower mix"),
+        ("dashboard/d09_slope_tea_types.png", "Slope charts: tea-type mix 2019 → 2025"),
     ]),
     ("model", "Model & forecast", [
-        ("09_model_comparison.png", "Backtest error by model and year"),
-        ("10_actual_vs_forecast_FY2025-26.png", "Held-out year FY 2025-26"),
-        ("11_feature_importance.png", "What the Random Forest relies on"),
-        ("12_forecast_FY2026-27.png", "FY 2026-27 forecast"),
+        ("dashboard/d10_radar_models.png", "Radar: model scorecard"),
+        ("dashboard/d11_error_heatmap.png", "Heatmap: error by model and month"),
+        ("dashboard/d12_violin_errors.png", "Violin plot: error distributions"),
+        ("dashboard/d13_fan_forecast.png", "Fan chart: FY 2026-27 forecast"),
     ]),
 ]
 
@@ -49,7 +50,7 @@ TABS = [
 def img_tag(name: str, alt: str) -> str:
     path = FIG / name
     if not path.exists():
-        return f'<p class="missing">Missing {html.escape(name)}: run src/analysis.py first.</p>'
+        return f'<p class="missing">Missing {html.escape(name)}: run src/dashboard_charts.py first.</p>'
     b64 = base64.b64encode(path.read_bytes()).decode()
     return f'<img src="data:image/png;base64,{b64}" alt="{html.escape(alt)}" loading="lazy">'
 
